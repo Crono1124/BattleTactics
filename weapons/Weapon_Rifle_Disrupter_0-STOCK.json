@@ -35,9 +35,9 @@
         "Manufacturer" : "Xenotech",
         "Model" : "EMP Disruptor Rifle",
         "UIName" : "EMP Disruptor Rifle",
-        "Id" : "Weapon_Rifle_Disruptor_0-STOCK",
-        "Name" : "EMP Disruptor Rifle",
-        "Details" : "Disruptor Rifles do little damage but their charged rounds critical enemy components with incredible potency",
+        "Id" : "Weapon_Rifle_Disrupter_0-STOCK",
+        "Name" : "EMP Disrupter Rifle",
+        "Details" : "Disrupter Rifles do little damage but their charged rounds critical enemy components with incredible potency",
         "Icon" : "uixSvgIcon_weapon_Energy"
     },
     "BonusValueA" : "",
