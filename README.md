@@ -81,9 +81,13 @@
 ### Balance Adjustments:
 
 +All new units added into all random encounters
+
 +Rarity of Pulse Lasers to be adjusted
+
 +Stock PPC Damage / heat balance to be applied
+
 +Stock Large Laser and + Variants to be balanced
+
 # Coming Soon:
  
 ### New faction: Pirate Salvagers (WIP) (*Pending Implementation*)
