@@ -3,20 +3,20 @@
 
   I wanted to create a mod in Battletech that enriches the vanilla experience while providing a slightly higher difficulty level. At this time no DLC is required for this MOD as I have not edited any DLC mechs YET.
 
-Currently the MOD provides:
+# Current Changes:
 
- An increased Player VS AI Difficulty by:
+### An increased Player VS AI Difficulty:
 
  +Allow the AI to utilize more alpha strikes. Unless the AI will overheat, or has a less than ~10% chance of hitting you. Expect the AI to give you the full business with every possible shot. What you do to them, They will now do to you :) (*Requires slight tweaks... AI Logic still prefers to single shot or punch but has improved)
 
  +All Head shot chances reduced against all mechs. This will lower the possibility of getting random head shots from any weapons fire Unless the enemy is on higher elevation than you. If there is an elevation imbalance the mech with the higher ground gets a bonus to head shot percentages. (*Pending Implementation*)
 (--I want to look into lowering the chance of head shots from the side as well. I feel like if you want to shoot somebody in the head you should have to do it from head on. )
 
- AI Difficulty reduced by:
+ ### AI Difficulty reduced by:
 
  +All LRM Accuracy lowered. LRM missile spam should be just that... Spam. Lobbing 40+ missiles from thousands of feet away should not all impact with perfect accuracy. This was implemented by lowering LRM missile accuracy modifier by 3. (Still in balance testing phase.)
 
- New Ammo Types:
+ ### New Ammo Types:
 
  Chemical Laser Ammo: Quantity per box in testing.
 
@@ -30,7 +30,7 @@ Currently the MOD provides:
 
  Armor Piercing Missile Ammo: Low Quantity per box, Large box size per 1 ton
 
- New Weapons:
+ ### New Weapons:
 
  +Heavy Machine Gun: No Heat, Medium Range, Heavy Ammo, Large Container, Low Weight (Stock, +, ++ variants)
 
@@ -52,7 +52,7 @@ Currently the MOD provides:
 
  +SRM Armor Piercing Missiles: Low Heat on shot, Low / moderate Damage on hit, Structure Damage on Hit, Reduced Critical chance by 50%.
 
- New Mech Variants: (All currently in Random Encounters only. Not yet available in stores)
+ ### New Mech Variants: (All currently in Random Encounters only. Not yet available in stores)
 
  Armored Cicada - CDA-4D: Includes XXL Engine: Utilizes Fully armored, Quad HMG; Quad High Dmg support MGs... and a whole lot of explody bits. (Possible Starting Mech)
 
@@ -72,25 +72,19 @@ Currently the MOD provides:
 
 
 
- Coming Soon:
- New faction: Pirate Salvagers (WIP) (*Pending Implementation*)
+# Coming Soon:
+ 
+### New faction: Pirate Salvagers (WIP) (*Pending Implementation*)
  +Add mech variants specific to black market pirates. These pirates operate under the mantra: "Save the metal kill the meat." (*Pending Implementation*)
  Weapons:
 
- +More info to come
-
-
- Ammo Types:
+ ### Ammo Types:
 
  +CASE Ammo for all weapon types: Same tonnage, less explody, larger inventory slot requirements
 
  +1/2 Ton Ammo Containers for all weapons?
-
- +And More
-
-
-
- Mech Variants:
+ 
+ ### Mech Variants:
 
  Kintaro
 
@@ -98,9 +92,7 @@ Currently the MOD provides:
 
  Zues
 
-
-
- Vehicle Types:
+###  Vehicle Types:
 
  +Armor Piercing Missile Carrier: Low Damage Armor piercing missile loadout; High priority Target. Take it out or expect to spend a lot of time in the mechbay repairing components (Or whole mech sections if you do not use CASE Ammo)
 
@@ -108,9 +100,7 @@ Currently the MOD provides:
 
  +Cluster Missile Carrier: Used by Raider faction to save the metal :) Cockpit mods may save your life.
 
-
-
- Misc Adjustments:
+### Balance Adjustments:
 
  +All new units added into all random encounters
 
@@ -122,12 +112,18 @@ Currently the MOD provides:
 
  +Stock Large Laser and + Variants to be balanced
 
+### Notes
+
   +Mechs with (XXL) Engines have critical slots permanently occupied on left and right torso sections to adjust for decreased weight. These critical slots are considered explosive to the location only. This configuration is unique to mech variants and can not be transferred to other mechs via mechlab.
-
-
+  
+  +Mech chassis that come with Gyro's or rangefinders pre-installed will not allow them to be removed. Similar in fashion to Warhammer and Phoenix Hawk Variants. 
 
  After reading above you'll quickly realize most of these adjustments are not in line with Table Top or anything else for that matter. My goal is to just create a fun experience for as many people as I can.
 
+### Installation Notes:
+ 
  Currently the mod uses MODTEK to install and is functional with Battletech version 1.9.1 . I'm hoping to have a good baseline version available by Sunday. All creative inputs welcome!
+ 
+ **The Mod folder needs to be called, "BattleTactics" when placed in your ModTeK Mod Folder.**
 
  Disclaimer: *I am not an expert modder, just an enthusiast of the game.
