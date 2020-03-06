@@ -70,7 +70,9 @@
 
  Light to Medium Mechs should now have a purpose throughout the entire game with the above additions. AP Missiles are perfect for destroying enemy weapon systems and components on heavier mechs.
 
+### Balance Adjustments:
 
++All new units added into all random encounters
 
 # Coming Soon:
  
@@ -102,8 +104,6 @@
 
 ### Balance Adjustments:
 
- +All new units added into all random encounters
-
  +Rarity of Pulse Lasers to be adjusted
 
  +All Lostek weapons to be added to all shops with high rarity
@@ -112,7 +112,7 @@
 
  +Stock Large Laser and + Variants to be balanced
 
-### Notes
+# Misc. Notes
 
   +Mechs with (XXL) Engines have critical slots permanently occupied on left and right torso sections to adjust for decreased weight. These critical slots are considered explosive to the location only. This configuration is unique to mech variants and can not be transferred to other mechs via mechlab.
   
