@@ -81,7 +81,9 @@
 ### Balance Adjustments:
 
 +All new units added into all random encounters
-
++Rarity of Pulse Lasers to be adjusted
++Stock PPC Damage / heat balance to be applied
++Stock Large Laser and + Variants to be balanced
 # Coming Soon:
  
 ### New faction: Pirate Salvagers (WIP) (*Pending Implementation*)
@@ -112,13 +114,8 @@
 
 ### Balance Adjustments:
 
- +Rarity of Pulse Lasers to be adjusted
-
  +All Lostek weapons to be added to all shops with high rarity
 
- +Stock PPC Damage / heat balance to be applied
-
- +Stock Large Laser and + Variants to be balanced
  
   +All Head shot chances reduced against all targets. This will lower the possibility of getting random head shots from any weapons fire Unless the enemy is on higher elevation than you. If there is an elevation imbalance the mech with the higher ground gets a bonus to head shot percentages. (*Pending Implementation*)
   (--I want to look into lowering the chance of head shots from the side as well. I feel like if you want to shoot somebody in the head you should have to do it from head on. )
