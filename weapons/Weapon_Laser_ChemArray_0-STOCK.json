@@ -29,7 +29,7 @@
     "Instability" : 6,
     "WeaponEffectID" : "WeaponEffect-Weapon_LaserPulse_Large",
     "Description" : {
-        "Cost" : 10,
+        "Cost" : 120000,
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Innotek",
@@ -53,7 +53,7 @@
     "CriticalComponent" : false,
 	"VolleyDivisor" : 0,
     "statusEffects" : [
-        
+
     ],
     "ComponentTags" : {
         "items" : [

@@ -29,7 +29,7 @@
     "Instability" : 0,
     "WeaponEffectID" : "WeaponEffect-Weapon_LaserPulse_Large",
     "Description" : {
-        "Cost" : 10,
+        "Cost" : 179000,
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "BellFire",
@@ -53,7 +53,7 @@
     "CriticalComponent" : false,
 	"VolleyDivisor" : 0,
     "statusEffects" : [
-        
+
     ],
     "ComponentTags" : {
         "items" : [

@@ -30,8 +30,8 @@
     "Instability" : 1,
     "WeaponEffectID" : "WeaponEffect-Weapon_MachineGun",
     "Description" : {
-        "Cost" : 200000,
-        "Rarity" : 99,
+        "Cost" : 1700000,
+        "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "XenoTech",
         "Model" : "Heavy Machine Gun",
@@ -52,7 +52,7 @@
     "DisallowedLocations" : "All",
     "CriticalComponent" : false,
     "statusEffects" : [
-        
+
     ],
     "ComponentTags" : {
         "items" : [

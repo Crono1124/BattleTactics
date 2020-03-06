@@ -29,7 +29,7 @@
     "Instability" : 30,
 	"WeaponEffectID" : "WeaponEffect-Weapon_AC20",
     "Description" : {
-        "Cost" : 500,
+        "Cost" : 140000,
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Raider",
@@ -53,7 +53,7 @@
     "CriticalComponent" : false,
 	"VolleyDivisor" : 0,
     "statusEffects" : [
-        
+
     ],
     "ComponentTags" : {
         "items" : [

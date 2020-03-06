@@ -30,7 +30,7 @@
     "WeaponEffectID" : "WeaponEffect-Weapon_LRM5",
     "Description" : {
         "Cost" : 80,
-        "Rarity" : 0,
+        "Rarity" : 130000,
         "Purchasable" : true,
         "Manufacturer" : "Raider",
         "Model" : "Long-Range Cluster Missile Launcher",
@@ -52,7 +52,7 @@
     "DisallowedLocations" : "All",
     "CriticalComponent" : false,
     "statusEffects" : [
-        
+
     ],
     "ComponentTags" : {
         "items" : [
