@@ -2,12 +2,12 @@
  BattleTech Mod
 
   I wanted to create a mod in Battletech that enriches the vanilla experience while providing a slightly higher difficulty level. In order to provide a new gaming experience:
-  #### weapons and units have been added that focus on difficulty by impacting the Heat, structure, and stability of player mechs. 
-  #### Light to Medium mechs can be utilized throguhout end game content without just fielding an all assault lance.
-  #### Light mechs should be able to utilize weapons to disable (Destroy) the weapon systems of heavier mechs.
-  #### Larger mechs only = survivability now, not unlimited firepower.
-  #### Salvaging a mech is no longer an accidental act. Weapons have been created to assist in salvaging actions.
-  #### A faction is planned to be introduced that specalizes in mech salvage... Yay Pirates! 
+  #### +weapons and units have been added that focus on difficulty by impacting the Heat, structure, and stability of player mechs. 
+  #### +Light to Medium mechs can be utilized throguhout end game content without just fielding an all assault lance.
+  #### +Light mechs should be able to utilize weapons to disable (Destroy) the weapon systems of heavier mechs.
+  #### +Larger mechs only = survivability now, not unlimited firepower.
+  #### +Salvaging a mech is no longer an accidental act. Weapons have been created to assist in salvaging actions.
+  #### +A faction is planned to be introduced that specalizes in mech salvage... Yay Pirates! 
   
   
   (At this time no DLC is required for this MOD as I have not edited any DLC mechs YET.)
