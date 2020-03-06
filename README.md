@@ -1,33 +1,20 @@
 # BattleTactics
  BattleTech Mod
 
-  I wanted to create a mod in Battletech that enriches the vanilla experience while providing a slightly higher difficulty level. At this time no DLC is required for this MOD as I have not edited any DLC mechs YET. Currently the MOD provides:
+  I wanted to create a mod in Battletech that enriches the vanilla experience while providing a slightly higher difficulty level. At this time no DLC is required for this MOD as I have not edited any DLC mechs YET.
 
-
+Currently the MOD provides:
 
  An increased Player VS AI Difficulty by:
 
  +Allow the AI to utilize more alpha strikes. Unless the AI will overheat, or has a less than ~10% chance of hitting you. Expect the AI to give you the full business with every possible shot. What you do to them, They will now do to you :) (*Requires slight tweaks... AI Logic still prefers to single shot or punch but has improved)
 
  +All Head shot chances reduced against all mechs. This will lower the possibility of getting random head shots from any weapons fire Unless the enemy is on higher elevation than you. If there is an elevation imbalance the mech with the higher ground gets a bonus to head shot percentages. (*Pending Implementation*)
-
- (--I want to look into lowering the chance of head shots from the side as well. I feel like if you want to shoot somebody in the head you should have to do it from head on. )
-
- (*Pending Implementation*)
-
-
+(--I want to look into lowering the chance of head shots from the side as well. I feel like if you want to shoot somebody in the head you should have to do it from head on. )
 
  AI Difficulty reduced by:
 
  +All LRM Accuracy lowered. LRM missile spam should be just that... Spam. Lobbing 40+ missiles from thousands of feet away should not all impact with perfect accuracy. This was implemented by lowering LRM missile accuracy modifier by 3. (Still in balance testing phase.)
-
-
-
- New faction: Pirate Salvagers (WIP)
-
- +Add mech variants specific to black market pirates. These pirates operate under the mantra: "Save the metal kill the meat." (*Pending Implementation*)
-
-
 
  New Ammo Types:
 
@@ -42,8 +29,6 @@
  Salvage Rifle Ammo: Low Quantity per box, Large box size per 1 ton
 
  Armor Piercing Missile Ammo: Low Quantity per box, Large box size per 1 ton
-
-
 
  New Weapons:
 
@@ -67,31 +52,29 @@
 
  +SRM Armor Piercing Missiles: Low Heat on shot, Low / moderate Damage on hit, Structure Damage on Hit, Reduced Critical chance by 50%.
 
+ New Mech Variants: (All currently in Random Encounters only. Not yet available in stores)
 
+ Armored Cicada - CDA-4D: Includes XXL Engine: Utilizes Fully armored, Quad HMG; Quad High Dmg support MGs... and a whole lot of explody bits. (Possible Starting Mech)
 
- New Mech Variants:
-
- Armored Cicada - CDA-4D: Includes XXL Engine: Utilizes Fully armored, Quad HMG; Quad High Dmg support MGs... and a whole lot of explody bits.
-
- Firestarter - FS9-DD: Pair of LBX-2 ++, and High Damage medium Lasers
+ Firestarter - FS9-DD: Pair of LBX-2 ++, and High Damage medium Lasers (Possible Starting Mech)
 
  Grashopper GHR-5C: Chemical Laser variant
 
  Grasshopper GHR-5M: Energy Missile Variant
 
- Locust_LCT-1T: Armor Piercing Variant
+ Locust_LCT-1T: Armor Piercing Variant (Possible Starting Mech)
 
- Jenner JR7-1C: Quad Chemical Lasers (Great for high heat Biome); Twin SRM4 Armor Piercing.
+ Jenner JR7-1C: Quad Chemical Lasers (Great for high heat Biome); Twin SRM4 Armor Piercing. (Possible Starting Mech)
 
- Enforcer ENF-7T: Lawman Variant: Fully Armored; Anti Stability Mech. Snub PPC High stability damage; 3 Long Range Energy Missiles; 1 Impact Cannon; 2 Melee Stability damage mods (Non-Removable); +3 Hit Defense Gyro.
+ Enforcer ENF-7T: Lawman Variant: Fully Armored; Anti Stability Mech. Snub PPC High stability damage; 3 Long Range Energy Missiles; 1 Impact Cannon; 2 Melee Stability damage mods (Non-Removable); +3 Hit Defense Gyro. (Possible Starting Mech)
 
  Light to Medium Mechs should now have a purpose throughout the entire game with the above additions. AP Missiles are perfect for destroying enemy weapon systems and components on heavier mechs.
 
 
 
  Coming Soon:
-
-
+ New faction: Pirate Salvagers (WIP) (*Pending Implementation*)
+ +Add mech variants specific to black market pirates. These pirates operate under the mantra: "Save the metal kill the meat." (*Pending Implementation*)
  Weapons:
 
  +More info to come
@@ -133,11 +116,13 @@
 
  +Rarity of Pulse Lasers to be adjusted
 
- +All Lostek added to all shops with high rarity?
+ +All Lostek weapons to be added to all shops with high rarity
 
  +Stock PPC Damage / heat balance to be applied
 
- +Mechs with (XXL) Engines have critical slots permanently occupied on left and right torso sections to adjust for decreased weight. These critical slots are considered explosive to the location only. This configuration is unique to mech variants and can not be transferred to other mechs via mechlab.
+ +Stock Large Laser and + Variants to be balanced
+
+  +Mechs with (XXL) Engines have critical slots permanently occupied on left and right torso sections to adjust for decreased weight. These critical slots are considered explosive to the location only. This configuration is unique to mech variants and can not be transferred to other mechs via mechlab.
 
 
 
