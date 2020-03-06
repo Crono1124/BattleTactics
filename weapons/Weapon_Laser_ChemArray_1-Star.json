@@ -1,0 +1,65 @@
+{
+    "Category" : "Energy",
+    "Type" : "Laser",
+    "WeaponSubType" : "LargeLaserPulse",
+    "MinRange" : 0,
+    "MaxRange" : 750,
+    "RangeSplit" : [
+        300,
+        300,
+        750
+    ],
+    "ammoCategoryID" : "Chem",
+    "StartingAmmoCapacity" : 0,
+    "HeatGenerated" : 20,
+    "Damage" : 96,
+    "OverheatedDamageMultiplier" : 0,
+    "EvasiveDamageMultiplier" : 0,
+    "EvasivePipsIgnored" : 0,
+    "DamageVariance" : 0,
+    "HeatDamage" : 6,
+    "AccuracyModifier" : -3,
+    "CriticalChanceMultiplier" : 6,
+    "AOECapable" : false,
+    "IndirectFireCapable" : false,
+    "RefireModifier" : 1,
+    "ShotsWhenFired" : 1,
+    "ProjectilesPerShot" : 6,
+    "AttackRecoil" : 1,
+    "Instability" : 6,
+    "WeaponEffectID" : "WeaponEffect-Weapon_LaserPulse_Large",
+    "Description" : {
+        "Cost" : 10,
+        "Rarity" : 0,
+        "Purchasable" : true,
+        "Manufacturer" : "Star",
+        "Model" : "Chemical Laser Array",
+        "UIName" : "Chem laser Array +",
+        "Id" : "Weapon_Laser_ChemArray_1-Star",
+        "Name" : "Chemical Laser",
+        "Details" : "Self Contained Laser array modified to utilize a chemical agent reducing heat generated. All Chemical Lasers leave a trace amount of residual heat on the target after firing",
+        "Icon" : "uixSvgIcon_weapon_Energy"
+    },
+    "BonusValueA" : "+6 Dmg",
+    "BonusValueB" : "-1 Ton",
+    "ComponentType" : "Weapon",
+    "ComponentSubType" : "Weapon",
+    "PrefabIdentifier" : "Laser",
+    "BattleValue" : 0,
+    "InventorySize" : 3,
+    "Tonnage" : 6,
+    "AllowedLocations" : "All",
+    "DisallowedLocations" : "All",
+    "CriticalComponent" : false,
+	"VolleyDivisor" : 0,
+    "statusEffects" : [
+        
+    ],
+    "ComponentTags" : {
+        "items" : [
+            "component_type_stock",
+            "range_extreme"
+		],
+        "tagSetSourceFile" : ""
+    }
+}

@@ -1,0 +1,88 @@
+{
+	"Description" : {
+		"Id" : "TraitDefWeaponHit1",
+		"Name" : "",
+		"Details" : "",
+		"Icon" : ""
+	},
+	"Type" : "WeaponHit",
+	"ShortDesc" : "+ 1% Base Weapon Hit",
+    "DisplayParams" : "ShowInPilotToolTip",
+	"ActivationTime" : "Passive",
+	"EffectData" : [
+	{
+        "durationData": {
+            "duration": -1
+        },
+        "targetingData": {
+            "effectTriggerType": "OnActivation",
+            "effectTargetType": "Creator"
+        },
+        "effectType": "StatisticEffect",
+        "Description": {
+            "Id": "StatusEffect-Attack_ToHitBallistic",
+            "Name": "BALLISTIC WEAPON HIT CHANCE IMPROVED",
+            "Details": "Ballistic weapon attacks have their hit improved by [AMT].",
+            "Icon": "uixSvgIcon_equipment_Gyro"
+        },
+        "statisticData": {
+            "statName": "AccuracyModifier",
+            "operation": "Float_Add",
+            "modValue": "-0.01",
+            "modType": "System.Single",
+            "targetCollection": "Weapon",
+            "targetWeaponCategory": "Ballistic",
+        },
+        "nature": "Buff"
+    },
+    {
+        "durationData": {
+            "duration": -1
+        },
+        "targetingData": {
+            "effectTriggerType": "OnActivation",
+            "effectTargetType": "Creator"
+        },
+        "effectType": "StatisticEffect",
+        "Description": {
+            "Id": "StatusEffect-Attack_ToHitEnergy",
+            "Name": "ENERGY WEAPON HIT CHANCE IMPROVED",
+            "Details": "Energy weapon attacks have their hit improved by [AMT].",
+            "Icon": "uixSvgIcon_equipment_Gyro"
+        },
+        "statisticData": {
+            "statName": "AccuracyModifier",
+            "operation": "Float_Add",
+            "modValue": "-0.01",
+            "modType": "System.Single",
+            "targetCollection": "Weapon",
+            "targetWeaponCategory": "Energy",
+        },
+        "nature": "Buff"
+    },
+    {
+        "durationData": {
+            "duration": -1
+        },
+        "targetingData": {
+            "effectTriggerType": "OnActivation",
+            "effectTargetType": "Creator"
+        },
+        "effectType": "StatisticEffect",
+        "Description": {
+            "Id": "StatusEffect-Attack_ToHitMissile",
+            "Name": "MISSILE WEAPON HIT CHANCE IMPROVED",
+            "Details": "Missile weapon attacks have their hit improved by [AMT].",
+            "Icon": "uixSvgIcon_equipment_Gyro"
+        },
+        "statisticData": {
+            "statName": "AccuracyModifier",
+            "operation": "Float_Add",
+            "modValue": "-0.01",
+            "modType": "System.Single",
+            "targetCollection": "Weapon",
+            "targetWeaponCategory": "Missile",
+        },
+        "nature": "Buff"
+    }]
+}

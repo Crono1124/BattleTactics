@@ -1,0 +1,37 @@
+{
+    "AmmoID" : "Ammunition_SRMAP",
+    "Capacity" : 40,
+    "Description" : {
+        "Cost" : 10000,
+        "Rarity" : 0,
+        "Purchasable" : true,
+        "Manufacturer" : "Xenotech",
+        "Model" : "SRMAP",
+        "UIName" : "SRMAP Ammo",
+        "Id" : "Ammo_AmmunitionBox_SRMAP",
+        "Name" : "SRMAP Ammo Ammo",
+        "Details" : "Container of Armor Piercing Missiles for SRMAP Launchers",
+        "Icon" : "uixSvgIcon_weapon_Missile"
+    },
+    "BonusValueA" : "40 AP Rounds",
+    "BonusValueB" : "",
+    "ComponentType" : "AmmunitionBox",
+    "ComponentSubType" : "Ammunition",
+    "PrefabIdentifier" : "",
+    "BattleValue" : 0,
+    "InventorySize" : 2,
+    "Tonnage" : 1,
+	"CanExplode" : true,
+    "AllowedLocations" : "All",
+    "DisallowedLocations" : "All",
+    "CriticalComponent" : false,
+    "statusEffects" : [
+        
+    ],
+    "ComponentTags" : {
+        "items" : [
+            "component_type_stock"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}

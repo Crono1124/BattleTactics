@@ -1,0 +1,18 @@
+{
+   "Description" : {
+      "Id" : "Ammunition_HMG",
+      "Name" : "Heavy Machine Gun Ammo",
+      "Details" : "Container of Heavy Machine Gun Rounds",
+      "Icon" : null,
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "ammunitionTypeID" : "Normal",
+   "ammoCategoryID" : "HMG",
+   "HeatGenerated" : 0,
+   "HeatGeneratedModifier" : 1,
+   "ArmorDamageModifier" : 1,
+   "ISDamageModifier" : 1,
+   "CriticalDamageModifier" : 1
+}

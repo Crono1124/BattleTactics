@@ -1,0 +1,18 @@
+{
+   "Description" : {
+      "Id" : "Ammunition_SRMAP",
+      "Name" : "SRMAP Ammo",
+      "Details" : "Container of Armor Piercing Missiles for SRMAP Launchers",
+      "Icon" : null,
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "ammunitionTypeID" : "Normal",
+   "ammoCategoryID" : "SRMAP",
+   "HeatGenerated" : 0,
+   "HeatGeneratedModifier" : 1,
+   "ArmorDamageModifier" : 1,
+   "ISDamageModifier" : 1,
+   "CriticalDamageModifier" : 1
+}

@@ -1,0 +1,63 @@
+{
+    "Category" : "Energy",
+    "Type" : "Laser",
+    "WeaponSubType" : "MediumLaser",
+    "MinRange" : 0,
+    "MaxRange" : 630,
+    "RangeSplit" : [
+        420,
+        420,
+        630
+    ],
+    "ammoCategoryID" : "NotSet",
+    "StartingAmmoCapacity" : 0,
+    "HeatGenerated" : 12,
+    "Damage" : 4,
+    "OverheatedDamageMultiplier" : 0,
+    "EvasiveDamageMultiplier" : 0,
+    "EvasivePipsIgnored" : 0,
+    "DamageVariance" : 0,
+    "HeatDamage" : 0,
+    "AccuracyModifier" : 3,
+    "CriticalChanceMultiplier" : 1,
+    "AOECapable" : false,
+    "IndirectFireCapable" : true,
+    "RefireModifier" : 1,
+    "ShotsWhenFired" : 5,
+    "ProjectilesPerShot" : 1,
+    "AttackRecoil" : 1,
+    "Instability" : 2,
+    "WeaponEffectID" : "WeaponEffect-Weapon_LRM5",
+    "Description" : {
+        "Cost" : 80,
+        "Rarity" : 0,
+        "Purchasable" : true,
+        "Manufacturer" : "Xenotech",
+        "Model" : "Long-Range Energy Missile Launcher",
+        "UIName" : "Long Range Energy Missile",
+        "Id" : "Weapon_LREM_LREM2_0-STOCK",
+        "Name" : "LREM2",
+        "Details" : "By utilizing onboard energy fabrication, this system replicates the capabilities of an LRM-5. Unfortuantely, Due to onboard Energy Fabrication, This system can also Explode if criticaled.",
+        "Icon" : "uixSvgIcon_weapon_Energy"
+    },
+    "BonusValueA" : "+Explosive Component",
+    "BonusValueB" : "+Unlimited Ammo",
+    "ComponentType" : "Weapon",
+    "ComponentSubType" : "Weapon",
+    "PrefabIdentifier" : "Laser",
+    "BattleValue" : 0,
+    "InventorySize" : 2,
+    "Tonnage" : 2,
+	"CanExplode" : true,
+    "AllowedLocations" : "All",
+    "DisallowedLocations" : "All",
+    "CriticalComponent" : false,
+	"statusEffects" : [],
+    "ComponentTags" : {
+        "items" : [
+            "component_type_stock",
+            "range_extreme"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}

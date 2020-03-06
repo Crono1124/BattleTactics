@@ -1,0 +1,34 @@
+{
+    "Name": "BattleTactics",
+    "Enabled": true,
+
+    "Version": "0.1.0",
+    "Description": "Detail about the MOD",
+    "Author": "Crono1124",
+    "Website": "None",
+    "Contact": "Via Reddit or GitHUB",
+
+		"DataAddendumEntries":
+		[
+		{"name": "BattleTech.AmmoCategoryEnumeration", "path":"enums/AmmoCategory.json"}
+		],
+
+    "Manifest": 
+	[
+		{ "Type": "AbilityDef", "Path": "abilities", "AddToDB": true},
+		{ "Type": "ApplicationConstants", "Path": "constants", "AddToDB": true},
+		{ "Type": "CombatGameConstants", "Path": "constants", "AddToDB": true},
+		{ "Type": "BehaviorVariableScope", "Path": "behaviorVariables", "AddToDB": true},
+		{ "Type": "SimGameDifficultySettingList", "Path": "constants", "AddToDB": true},
+		{ "Type": "AmmunitionBoxDef", "Path": "ammunitionBox", "AddToDB": true},
+		{ "Type": "AmmunitionDef", "Path": "ammunition", "AddToDB": true},
+		{ "Type": "WeaponDef", "Path": "weapons", "AddToDB": true},
+		{ "Type": "HeatSinkDef", "Path": "heatsinks", "AddToDB": true },
+		{ "Type": "ChassisDef", "Path": "chassis", "AddToDB": true },
+		{ "Type": "UpgradeDef", "Path": "upgrades", "AddToDB": true },
+		{ "Type": "MechDef", "Path": "mech", "AddToDB": true },
+		{ "Type": "ItemCollectionDef", "Path": "itemcollection" }
+	],
+
+
+}

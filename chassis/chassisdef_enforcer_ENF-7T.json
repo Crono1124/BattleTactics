@@ -1,0 +1,255 @@
+{
+    "Description": {
+        "Cost": 4200000,
+        "Rarity": 3,
+        "Purchasable": true,
+        "Manufacturer": "",
+        "Model": "",
+        "UIName": "Enforcer",
+        "Id": "chassisdef_enforcer_ENF-7T",
+        "Name": "Enforcer",
+        "Details": "Enforcer 7T models were originally designed by salvage pirates to aid in the capture of mech chassis for sale on the black market. Their salvage rifles are used to destabalize enemy mechs in order to injure and kill the pilots while internally welded gyros provide additional defense. If that wasn't bad enough... They are equipped with high impact Melee Actuators. Deadly snipers with a nasty left hook.",
+        "Icon": "uixTxrIcon_enforcer"
+    },
+    "MovementCapDefID": "movedef_enforcer_ENF-4R",
+    "PathingCapDefID": "pathingdef_medium",
+    "HardpointDataDefID": "hardpointdatadef_enforcer",
+    "PrefabIdentifier": "chrPrfMech_enforcerBase-001",
+    "PrefabBase": "enforcer",
+    "Tonnage": 50,
+    "InitialTonnage": 14.0,
+    "weightClass": "MEDIUM",
+    "BattleValue": 4596000,
+    "Heatsinks": 0,
+    "TopSpeed": 120,
+    "TurnRadius": 90,
+    "MaxJumpjets": 4,
+    "Stability": 130,
+    "StabilityDefenses": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "SpotterDistanceMultiplier": 1,
+    "VisibilityMultiplier": 1,
+    "SensorRangeMultiplier": 1,
+    "Signature": 0,
+    "Radius": 5,
+    "PunchesWithLeftArm": false,
+    "MeleeDamage": 65,
+    "MeleeInstability": 50,
+    "MeleeToHitModifier": 0,
+    "DFADamage": 65,
+    "DFAToHitModifier": 0,
+    "DFASelfDamage": 65,
+    "DFAInstability": 65,
+    "Locations": [
+        {
+            "Location": "Head",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 1,
+            "MaxArmor": 45,
+            "MaxRearArmor": -1,
+            "InternalStructure": 16
+        },
+        {
+            "Location": "LeftArm",
+            "Hardpoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 80,
+            "MaxRearArmor": -1,
+            "InternalStructure": 40
+        },
+        {
+            "Location": "LeftTorso",
+            "Hardpoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 120,
+            "MaxRearArmor": 60,
+            "InternalStructure": 60
+        },
+        {
+            "Location": "CenterTorso",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 160,
+            "MaxRearArmor": 80,
+            "InternalStructure": 80
+        },
+        {
+            "Location": "RightTorso",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 120,
+            "MaxRearArmor": 60,
+            "InternalStructure": 60
+        },
+        {
+            "Location": "RightArm",
+            "Hardpoints": [
+                {
+                    "WeaponMount": "Ballistic",
+                    "Omni": false
+                }
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 80,
+            "MaxRearArmor": -1,
+            "InternalStructure": 40
+        },
+        {
+            "Location": "LeftLeg",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 120,
+            "MaxRearArmor": -1,
+            "InternalStructure": 60
+        },
+        {
+            "Location": "RightLeg",
+            "Hardpoints": [],
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 120,
+            "MaxRearArmor": -1,
+            "InternalStructure": 60
+        }
+    ],
+    "LOSSourcePositions": [
+        {
+            "x": 0,
+            "y": 15,
+            "z": 0
+        },
+        {
+            "x": 4,
+            "y": 14,
+            "z": 0
+        },
+        {
+            "x": -4,
+            "y": 14,
+            "z": 0
+        }
+    ],
+    "LOSTargetPositions": [
+        {
+            "x": 0,
+            "y": 15,
+            "z": 0
+        },
+        {
+            "x": 4,
+            "y": 14,
+            "z": 0
+        },
+        {
+            "x": -4,
+            "y": 14,
+            "z": 0
+        },
+        {
+            "x": 2.5,
+            "y": 6,
+            "z": 2.5
+        },
+        {
+            "x": -2.5,
+            "y": 6,
+            "z": 2.5
+        }
+    ],
+    "VariantName": "ENF-7T",
+    "ChassisTags": {
+        "items": [],
+        "tagSetSourceFile": ""
+    },
+    "StockRole": "Fire Support & Skirmisher",
+    "YangsThoughts": "Enforcer 7T's are fully armored models designed by salvage pirates to aid in the capture of mech chassis for sale on the black market. Their salvage rifles are used to destabalize enemy mechs in order to injure and kill the pilots while internally welded gyros provide additional defense. If that wasn't bad enough... They are equipped with high impact Melee Actuators. Deadly snipers with a nasty left hook.",
+	"FixedEquipment" : [
+        {
+            "MountedLocation" : "LeftArm",
+            "ComponentDefID" : "Gear_Actuator_Friedhof_Perseus",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Upgrade",
+            "HardpointSlot" : -1,
+            "IsFixed" : true,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "RightArm",
+            "ComponentDefID" : "Gear_Actuator_Friedhof_Perseus",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Upgrade",
+            "HardpointSlot" : -1,
+            "IsFixed" : true,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+		{
+            "MountedLocation" : "CenterTorso",
+            "ComponentDefID" : "Gear_Gyro_Friedhof_Sparrow",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Upgrade",
+            "HardpointSlot" : -1,
+            "IsFixed" : true,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "Head",
+            "ComponentDefID" : "Gear_Cockpit_Majesty_M_M_180KL",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Upgrade",
+            "HardpointSlot" : -1,
+            "IsFixed" : true,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        }
+	]
+}

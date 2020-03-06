@@ -1,0 +1,18 @@
+{
+   "Description" : {
+      "Id" : "Ammunition_Chem",
+      "Name" : "Chemical Ammo",
+      "Details" : "Container of liquid ammunition for Chemical Lasers",
+      "Icon" : null,
+      "Cost" : 0,
+      "Rarity" : 0,
+      "Purchasable" : false
+   },
+   "ammunitionTypeID" : "Normal",
+   "ammoCategoryID" : "Chem",
+   "HeatGenerated" : 0,
+   "HeatGeneratedModifier" : 1,
+   "ArmorDamageModifier" : 1,
+   "ISDamageModifier" : 1,
+   "CriticalDamageModifier" : 1
+}

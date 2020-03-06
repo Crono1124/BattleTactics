@@ -1,0 +1,37 @@
+{
+    "AmmoID" : "Ammunition_Rifle_Disruptor",
+    "Capacity" : 40,
+    "Description" : {
+        "Cost" : 10,
+        "Rarity" : 0,
+        "Purchasable" : true,
+        "Manufacturer" : "Raider",
+        "Model" : "EMP Disruptor Rounds",
+        "UIName" : "EMP Disruptor Ammo",
+        "Id" : "Ammo_AmmunitionBox_Rifle_Disruptor",
+        "Name" : "Salvage Rifle Ammo",
+        "Details" : "Container of 40 EMP rounds for Disruptor Rifles",
+        "Icon" : "uixSvgIcon_weapon_Energy"
+    },
+    "BonusValueA" : "40 EMP rounds",
+    "BonusValueB" : "",
+    "ComponentType" : "AmmunitionBox",
+    "ComponentSubType" : "Ammunition",
+    "PrefabIdentifier" : "",
+    "BattleValue" : 0,
+    "InventorySize" : 1,
+    "Tonnage" : 1,
+	"CanExplode" : true,
+    "AllowedLocations" : "All",
+    "DisallowedLocations" : "All",
+    "CriticalComponent" : false,
+    "statusEffects" : [
+        
+    ],
+    "ComponentTags" : {
+        "items" : [
+            "component_type_stock"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}
