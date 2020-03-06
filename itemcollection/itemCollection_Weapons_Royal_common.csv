@@ -1,3 +1,4 @@
-itemCollection_Weapons_Royal_rare,,,
-Weapon_Autocannon_AC10_3-Federated,Weapon,1,1
-Weapon_Autocannon_AC20_2-Federated,Weapon,1,2
+itemCollection_Weapons_Royal_common,,,
+Weapon_Laser_ChemMedium_0-STOCK,Weapon,1,5
+Weapon_Laser_ChemMedium_1-Royal,Weapon,1,2
+Weapon_Laser_ChemMedium_2-Royal,Weapon,1,1
