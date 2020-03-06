@@ -29,6 +29,7 @@
     "statusEffects" : [],
     "ComponentTags" : {
         "items" : [
+          "BUILT-IN",
             ],
         "tagSetSourceFile" : ""
     }
