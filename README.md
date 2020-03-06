@@ -1,20 +1,28 @@
 # BattleTactics
  BattleTech Mod
 
-  I wanted to create a mod in Battletech that enriches the vanilla experience while providing a slightly higher difficulty level. At this time no DLC is required for this MOD as I have not edited any DLC mechs YET.
+  I wanted to create a mod in Battletech that enriches the vanilla experience while providing a slightly higher difficulty level. In order to provide a new gaming experience:
+  #### weapons and units have been added that focus on difficulty by impacting the Heat, structure, and stability of player mechs. 
+  #### Light to Medium mechs can be utilized throguhout end game content without just fielding an all assault lance.
+  #### Light mechs should be able to utilize weapons to disable (Destroy) the weapon systems of heavier mechs.
+  #### Larger mechs only = survivability now, not unlimited firepower.
+  #### Salvaging a mech is no longer an accidental act. Weapons have been created to assist in salvaging actions.
+  #### A faction is planned to be introduced that specalizes in mech salvage... Yay Pirates! 
+  
+  
+  (At this time no DLC is required for this MOD as I have not edited any DLC mechs YET.)
 
 # Current Changes:
 
+### Global accuracy changes:
+
++All units will now only gain +1% accuracy per gunnery stat increase vice the original 2.5%. This prevents the constant 95% hit chance without the use of tactics (Higher Ground)
+
+ +All LRM Accuracy lowered. LRM missile spam should be just that... Spam. Lobbing 40+ missiles from thousands of feet away should not all impact with perfect accuracy. This was implemented by lowering LRM missile accuracy modifier by 3. (Still in balance testing phase.)
+ 
 ### An increased Player VS AI Difficulty:
 
  +Allow the AI to utilize more alpha strikes. Unless the AI will overheat, or has a less than ~10% chance of hitting you. Expect the AI to give you the full business with every possible shot. What you do to them, They will now do to you :) (*Requires slight tweaks... AI Logic still prefers to single shot or punch but has improved)
-
- +All Head shot chances reduced against all mechs. This will lower the possibility of getting random head shots from any weapons fire Unless the enemy is on higher elevation than you. If there is an elevation imbalance the mech with the higher ground gets a bonus to head shot percentages. (*Pending Implementation*)
-(--I want to look into lowering the chance of head shots from the side as well. I feel like if you want to shoot somebody in the head you should have to do it from head on. )
-
- ### AI Difficulty reduced by:
-
- +All LRM Accuracy lowered. LRM missile spam should be just that... Spam. Lobbing 40+ missiles from thousands of feet away should not all impact with perfect accuracy. This was implemented by lowering LRM missile accuracy modifier by 3. (Still in balance testing phase.)
 
  ### New Ammo Types:
 
@@ -111,6 +119,9 @@
  +Stock PPC Damage / heat balance to be applied
 
  +Stock Large Laser and + Variants to be balanced
+ 
+  +All Head shot chances reduced against all targets. This will lower the possibility of getting random head shots from any weapons fire Unless the enemy is on higher elevation than you. If there is an elevation imbalance the mech with the higher ground gets a bonus to head shot percentages. (*Pending Implementation*)
+  (--I want to look into lowering the chance of head shots from the side as well. I feel like if you want to shoot somebody in the head you should have to do it from head on. )
 
 # Misc. Notes
 
