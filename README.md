@@ -5,7 +5,6 @@
   #### +weapons and units have been added that focus on difficulty by impacting the Heat, structure, and stability of player mechs. 
   #### +Light to Medium mechs can be utilized throguhout end game content without just fielding an all assault lance.
   #### +Light mechs should be able to utilize weapons to disable (Destroy) the weapon systems of heavier mechs.
-  #### +Larger mechs only = survivability now, not unlimited firepower.
   #### +Salvaging a mech is no longer an accidental act. Weapons have been created to assist in salvaging actions.
   #### +A faction is planned to be introduced that specalizes in mech salvage... Yay Pirates! 
   
@@ -59,6 +58,8 @@
  +Salvage Rifle: Low Heat, Low Damage, High instability damage. (Used by Raider mech types)
 
  +SRM Armor Piercing Missiles: Low Heat on shot, Low / moderate Damage on hit, Structure Damage on Hit, Reduced Critical chance by 50%.
+ 
+ +Dragons Breath Heavy Flamer: Significant Heat damage + Heat DOT. LOW AMMO! **Added 3/6/20**
 
  ### New Mech Variants: (All currently in Random Encounters only. Not yet available in stores)
 
@@ -76,21 +77,17 @@
 
  Enforcer ENF-7T: Lawman Variant: Fully Armored; Anti Stability Mech. Snub PPC High stability damage; 3 Long Range Energy Missiles; 1 Impact Cannon; 2 Melee Stability damage mods (Non-Removable); +3 Hit Defense Gyro. (Possible Starting Mech)
  
- Dragon-3M: Equipped with a rare dragons breath flamer, Twin UAC2's, and Chemical lasers... Sniper Role
+ Dragon-3M: Equipped with a rare dragons breath flamer, Twin UAC2's, and Chemical lasers... Sniper Role **Added 3/6/20**
  
- Kintaro-2P: Fast, Heavily armored, Packed with more SRM++ missileswith SLDF Double Heatsinks and Jump jets to boot! (Still a powerhouse)
+ Kintaro-2P: Fast, Heavily armored, Packed with more SRM++ missileswith SLDF Double Heatsinks and Jump jets to boot! (Still a powerhouse) **Added 3/6/20**
 
- Light to Medium Mechs should now have a purpose throughout the entire game with the above additions. AP Missiles are perfect for destroying enemy weapon systems and components on heavier mechs.
+ ### Balance Adjustments:
 
-### Balance Adjustments:
++All new units added into all random encounters **Added 3/6/20**
 
-+All new units added into all random encounters
++Pulse weapons increased in rarity, no longer labeled LOSTEK.
 
-+Rarity of Pulse Lasers to be adjusted
-
-+Stock PPC Damage / heat balance to be applied
-
-+Stock Large Laser and + Variants to be balanced
++Revision #1 of PPC / Large Laser DMG / Heat **Added 3/6/20**
 
 # Coming Soon:
  
@@ -106,7 +103,7 @@
  
  ### Mech Variants:
 
-None additional planned at this time. All Implemented as of 3/6/20. 
+**None additional planned at this time. All Implemented as of 3/6/20.**
 
 ###  Vehicle Types:
 
@@ -118,8 +115,11 @@ None additional planned at this time. All Implemented as of 3/6/20.
 
 ### Balance Adjustments:
 
- +All Lostek weapons to be added to all shops with high rarity
++Revision #2 of Large Lasers & PPCs
 
++Revision #1 of Pulse weapon Heat requirements. 
+
+ +All Lostek weapons to be added to all shops with high rarity
  
   +All Head shot chances reduced against all targets. This will lower the possibility of getting random head shots from any weapons fire Unless the enemy is on higher elevation than you. If there is an elevation imbalance the mech with the higher ground gets a bonus to head shot percentages. (*Pending Implementation*)
   (--I want to look into lowering the chance of head shots from the side as well. I feel like if you want to shoot somebody in the head you should have to do it from head on. )
