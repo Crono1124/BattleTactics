@@ -134,7 +134,7 @@
 
 ### Installation Notes:
  
- Currently the mod uses MODTEK to install and is functional with Battletech version 1.9.1 . I'm hoping to have a good baseline version available by Sunday. All creative inputs welcome!
+ Currently the mod uses MODTEK to install and is functional with Battletech version 1.9.1 . All creative inputs welcome!
  
  **The Mod folder needs to be called, "BattleTactics" when placed in your ModTeK Mod Folder.**
 
