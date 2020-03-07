@@ -8,7 +8,7 @@
         "UIName": "Kintaro",
         "Id": "chassisdef_kintaro_KTO-2P",
         "Name": "Kintaro",
-        "Details": "The Kintaro 2P is\u2026 a beast of a machine. It's fast for its size, mounts heavy armor, and can literally shred most other 'Mechs with its almost ridiculous amount of close-range weaponry. But, it runs hotter than Hell's saunas.",
+        "Details": "The Kintaro 2P is\u2026 a beast of a machine. Fast, Heavily armored, and packed with more SRM missiles than I can count. SLDF Double Heatsinks and Jump jets to boot!",
         "Icon": "uixTxrIcon_kintaro"
     },
     "MovementCapDefID": "movedef_kintaro_KTO-18",
@@ -17,7 +17,7 @@
     "PrefabIdentifier": "chrPrfMech_kintaroBase-001",
     "PrefabBase": "kintaro",
     "Tonnage": 55,
-    "InitialTonnage": 25,
+    "InitialTonnage": 22,
     "weightClass": "MEDIUM",
     "BattleValue": 5148000,
     "Heatsinks": 0,
@@ -202,11 +202,11 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Juggernaut & Close Assault",
-    "YangsThoughts": "The Kintaro 2P is\u2026 a beast of a machine. It's fast for its size, mounts heavy armor, and can literally shred most other 'Mechs with its almost ridiculous amount of close-range weaponry. But, it runs hotter than Hell's saunas.",
-	"FixedEquipment" : [
+    "YangsThoughts": "The Kintaro 2P is\u2026 a beast of a machine. Fast, Heavily armored, and packed with more SRM missiles than I can count. SLDF Double Heatsinks and Jump jets to boot!",
+    "FixedEquipment" : [
         {
-            "MountedLocation" : "LeftArm",
-            "ComponentDefID" : "Gear_Actuator_Friedhof_Perseus",
+            "MountedLocation" : "LeftTorso",
+            "ComponentDefID" : "LeftCrit",
             "SimGameUID" : "",
             "ComponentDefType" : "Upgrade",
             "HardpointSlot" : -1,
@@ -217,8 +217,8 @@
             "hasPrefabName" : false
         },
         {
-            "MountedLocation" : "RightArm",
-            "ComponentDefID" : "Gear_Actuator_Friedhof_Perseus",
+            "MountedLocation" : "RightTorso",
+            "ComponentDefID" : "RightCrit",
             "SimGameUID" : "",
             "ComponentDefType" : "Upgrade",
             "HardpointSlot" : -1,
@@ -228,7 +228,7 @@
             "prefabName" : null,
             "hasPrefabName" : false
         },
-		    {
+		{
             "MountedLocation" : "CenterTorso",
             "ComponentDefID" : "Gear_Gyro_Friedhof_Sparrow",
             "SimGameUID" : "",
@@ -239,17 +239,6 @@
             "DamageLevel" : "Functional",
             "prefabName" : null,
             "hasPrefabName" : false
-        },
-        {
-            "MountedLocation" : "Head",
-            "ComponentDefID" : "Gear_Cockpit_Majesty_M_M_180KL",
-            "SimGameUID" : "",
-            "ComponentDefType" : "Upgrade",
-            "HardpointSlot" : -1,
-            "IsFixed" : true,
-            "GUID" : null,
-            "DamageLevel" : "Functional",
-            "prefabName" : null,
-            "hasPrefabName" : false
         }
+	]
 }
