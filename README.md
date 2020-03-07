@@ -75,6 +75,10 @@
  Jenner JR7-1C: Quad Chemical Lasers (Great for high heat Biome); Twin SRM4 Armor Piercing. (Possible Starting Mech)
 
  Enforcer ENF-7T: Lawman Variant: Fully Armored; Anti Stability Mech. Snub PPC High stability damage; 3 Long Range Energy Missiles; 1 Impact Cannon; 2 Melee Stability damage mods (Non-Removable); +3 Hit Defense Gyro. (Possible Starting Mech)
+ 
+ Dragon-3M: Equipped with a rare dragons breath flamer, Twin UAC2's, and Chemical lasers... Sniper Role
+ 
+ Kintaro-2P: Fast, Heavily armored, Packed with more SRM++ missileswith SLDF Double Heatsinks and Jump jets to boot! (Still a powerhouse)
 
  Light to Medium Mechs should now have a purpose throughout the entire game with the above additions. AP Missiles are perfect for destroying enemy weapon systems and components on heavier mechs.
 
@@ -102,11 +106,7 @@
  
  ### Mech Variants:
 
- Kintaro
-
- Dragon
-
- Zues
+None additional planned at this time. All Implemented as of 3/6/20. 
 
 ###  Vehicle Types:
 
