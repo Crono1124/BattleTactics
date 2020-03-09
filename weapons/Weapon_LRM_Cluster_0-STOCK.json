@@ -11,7 +11,7 @@
     ],
     "ammoCategoryID" : "Cluster",
     "StartingAmmoCapacity" : 0,
-    "HeatGenerated" : 6,
+    "HeatGenerated" : 10,
     "Damage" : 10,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,
