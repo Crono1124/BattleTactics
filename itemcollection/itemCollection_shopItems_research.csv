@@ -27,6 +27,7 @@ Weapon_LRM_Cluster_Large_0-STOCK,Weapon,1,3
 Weapon_Rifle_Disrupter_0-STOCK,Weapon,1,3
 Weapon_SalvageRifle_0-STOCK,Weapon,1,3
 Weapon_Laser_ChemArray_1-Star,Weapon,1,3
-Weapon_Laser_ChemLarge_1-BellFire,Weapon,1,3
-Weapon_Laser_ChemMedium_1-Royal,Weapon,1,3
-Weapon_Laser_ChemSmall_1-Razor,Weapon,1,3
+Weapon_Laser_ChemLarge_1-BellFire,Weapon,2,3
+Weapon_Laser_ChemMedium_1-Royal,Weapon,2,3
+Weapon_Laser_ChemSmall_1-Razor,Weapon,3,3
+Weapon_Flamer_HeavyFlamer_0-STOCK,Weapon,1,3

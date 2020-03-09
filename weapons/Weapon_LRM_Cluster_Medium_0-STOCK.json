@@ -29,8 +29,8 @@
     "Instability" : 60,
     "WeaponEffectID" : "WeaponEffect-Weapon_LRM5",
     "Description" : {
-        "Cost" : 80,
-        "Rarity" : 130000,
+        "Cost" : 350000,
+        "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Raider",
         "Model" : "Long-Range Cluster Missile Launcher",

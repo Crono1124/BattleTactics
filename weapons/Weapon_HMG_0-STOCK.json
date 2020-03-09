@@ -30,7 +30,7 @@
     "Instability" : 1,
     "WeaponEffectID" : "WeaponEffect-Weapon_MachineGun",
     "Description" : {
-        "Cost" : 1700000,
+        "Cost" : 250000,
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "XenoTech",
