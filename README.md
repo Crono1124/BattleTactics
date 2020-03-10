@@ -75,6 +75,10 @@
 
  Grasshopper GHR-5M: Energy Missile Variant
 
+ Rifleman-4DX: Mobile Energy Shotgun
+
+ Centurion-LL: Multi-Role Brawler
+
  Locust_LCT-1T: Armor Piercing Variant (Possible Starting Mech)
 
  Jenner JR7-1C: Quad Chemical Lasers (Great for high heat Biome); Twin SRM4 Armor Piercing. (Possible Starting Mech)
@@ -97,19 +101,28 @@
 
 ### New Mech Types:
 
-+Rifleman 4Dx: prototype Energy weapons platform
 +Warhammer XXX:
+
 +Victor XXX:
+
 +Shadowhawk XXX:
+
 +Quickdraw XXX:
+
 +Javelin XXX:
-+Centurion XXX:
+
 +Commando XXX:
+
 +Catapult XXX:
+
 +Blackknight XXX:
+
 +Blackjack XXX:
+
 +Battlemaster XXX:
+
 +Awesome XXX:
+
 +Archer XXX:
 
 
@@ -117,11 +130,7 @@
  +Add mech variants specific to black market pirates. These pirates operate under the mantra: "Save the metal kill the meat." (*Pending Implementation*)
  Weapons:
 
- ### Ammo Types:
-
- ### Mech Variants:
-
-**None additional planned at this time. All Implemented as of 3/6/20.**
+### Ammo Types:
 
 ###  Vehicle Types:
 
