@@ -2,7 +2,7 @@
     "AmmoID" : "Ammunition_SRMAP",
     "Capacity" : 40,
     "Description" : {
-        "Cost" : 180000,
+        "Cost" : 360000,
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Xenotech",

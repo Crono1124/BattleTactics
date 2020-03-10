@@ -2,7 +2,7 @@
     "AmmoID" : "Ammunition_GAUSS",
     "Capacity" : 4,
     "Description" : {
-        "Cost" : 50000,
+        "Cost" : 25000,
         "Rarity" : 100,
         "Purchasable" : true,
         "Manufacturer" : "Generic",

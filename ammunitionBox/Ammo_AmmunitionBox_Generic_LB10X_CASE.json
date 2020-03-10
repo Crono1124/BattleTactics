@@ -2,7 +2,7 @@
     "AmmoID" : "Ammunition_LB10X",
     "Capacity" : 64,
     "Description" : {
-        "Cost" : 40000,
+        "Cost" : 80000,
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Generic",

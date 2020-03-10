@@ -2,7 +2,7 @@
     "AmmoID" : "Ammunition_Cluster",
     "Capacity" : 6,
     "Description" : {
-        "Cost" : 50000,
+        "Cost" : 100000,
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Xenotech",

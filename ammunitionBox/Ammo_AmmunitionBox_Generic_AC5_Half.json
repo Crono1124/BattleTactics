@@ -2,7 +2,7 @@
     "AmmoID" : "Ammunition_AC5",
     "Capacity" : 8,
     "Description" : {
-        "Cost" : 20000,
+        "Cost" : 10000,
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Generic",

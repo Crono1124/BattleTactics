@@ -2,7 +2,7 @@
     "AmmoID" : "Ammunition_Rifle_Salvage",
     "Capacity" : 10,
     "Description" : {
-        "Cost" : 30000,
+        "Cost" : 15000,
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Raider",

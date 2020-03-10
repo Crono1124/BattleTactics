@@ -2,7 +2,7 @@
     "AmmoID" : "Ammunition_MG",
     "Capacity" : 200,
     "Description" : {
-        "Cost" : 10000,
+        "Cost" : 20000,
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Generic",

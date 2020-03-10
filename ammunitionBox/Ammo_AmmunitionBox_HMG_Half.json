@@ -2,7 +2,7 @@
     "AmmoID" : "Ammunition_HMG",
     "Capacity" : 50,
     "Description" : {
-        "Cost" : 100000,
+        "Cost" : 50000,
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Xenotech",

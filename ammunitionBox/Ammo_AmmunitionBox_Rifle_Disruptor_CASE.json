@@ -2,7 +2,7 @@
     "AmmoID" : "Ammunition_Rifle_Disruptor",
     "Capacity" : 40,
     "Description" : {
-        "Cost" : 150000,
+        "Cost" : 300000,
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Raider",
