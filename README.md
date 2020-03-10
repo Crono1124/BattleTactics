@@ -2,13 +2,13 @@
  BattleTech Mod
 
   I wanted to create a mod in Battletech that enriches the vanilla experience while providing a slightly higher difficulty level. In order to provide a new gaming experience:
-  #### +weapons and units have been added that focus on difficulty by impacting the Heat, structure, and stability of player mechs. 
+  #### +weapons and units have been added that focus on difficulty by impacting the Heat, structure, and stability of player mechs.
   #### +Light to Medium mechs can be utilized throguhout end game content without just fielding an all assault lance.
   #### +Light mechs should be able to utilize weapons to disable (Destroy) the weapon systems of heavier mechs.
   #### +Salvaging a mech is no longer an accidental act. Weapons have been created to assist in salvaging actions.
-  #### +A faction is planned to be introduced that specalizes in mech salvage... Yay Pirates! 
-  
-  
+  #### +A faction is planned to be introduced that specalizes in mech salvage... Yay Pirates!
+
+
   (At this time no DLC is required for this MOD as I have not edited any DLC mechs YET.)
 
 # Current Changes:
@@ -18,7 +18,7 @@
 +All units will now only gain +1% accuracy per gunnery stat increase vice the original 2.5%. This prevents the constant 95% hit chance without the use of tactics (Higher Ground)
 
  +All LRM Accuracy lowered. LRM missile spam should be just that... Spam. Lobbing 40+ missiles from thousands of feet away should not all impact with perfect accuracy. This was implemented by lowering LRM missile accuracy modifier by 3. (Still in balance testing phase.)
- 
+
 ### An increased Player VS AI Difficulty:
 
  +Allow the AI to utilize more alpha strikes. Unless the AI will overheat, or has a less than ~10% chance of hitting you. Expect the AI to give you the full business with every possible shot. What you do to them, They will now do to you :) (*Requires slight tweaks... AI Logic still prefers to single shot or punch but has improved)
@@ -58,7 +58,7 @@
  +Salvage Rifle: Low Heat, Low Damage, High instability damage. (Used by Raider mech types)
 
  +SRM Armor Piercing Missiles: Low Heat on shot, Low / moderate Damage on hit, Structure Damage on Hit, Reduced Critical chance by 50%.
- 
+
  +Dragons Breath Heavy Flamer: Significant Heat damage + Heat DOT. LOW AMMO! **Added 3/6/20**
 
  ### New Mech Variants: (All currently in Random Encounters only. Not yet available in stores)
@@ -76,9 +76,9 @@
  Jenner JR7-1C: Quad Chemical Lasers (Great for high heat Biome); Twin SRM4 Armor Piercing. (Possible Starting Mech)
 
  Enforcer ENF-7T: Lawman Variant: Fully Armored; Anti Stability Mech. Snub PPC High stability damage; 3 Long Range Energy Missiles; 1 Impact Cannon; 2 Melee Stability damage mods (Non-Removable); +3 Hit Defense Gyro. (Possible Starting Mech)
- 
+
  Dragon-3M: Equipped with a rare dragons breath flamer, Twin UAC2's, and Chemical lasers... Sniper Role **Added 3/6/20**
- 
+
  Kintaro-2P: Fast, Heavily armored, Packed with more SRM++ missileswith SLDF Double Heatsinks and Jump jets to boot! (Still a powerhouse) **Added 3/6/20**
 
  ### Balance Adjustments:
@@ -90,7 +90,25 @@
 +Revision #1 of PPC / Large Laser DMG / Heat **Added 3/6/20**
 
 # Coming Soon:
- 
+
+### New Mech Types:
+
++Rifleman 4Dx: prototype Energy weapons platform
++Warhammer XXX:
++Victor XXX:
++Shadowhawk XXX:
++Quickdraw XXX:
++Javelin XXX:
++Centurion XXX:
++Commando XXX:
++Catapult XXX:
++Blackknight XXX:
++Blackjack XXX:
++Battlemaster XXX:
++Awesome XXX:
++Archer XXX:
+
+
 ### New faction: Pirate Salvagers (WIP) (*Pending Implementation*)
  +Add mech variants specific to black market pirates. These pirates operate under the mantra: "Save the metal kill the meat." (*Pending Implementation*)
  Weapons:
@@ -100,7 +118,7 @@
  +CASE Ammo for all weapon types: Same tonnage, less explody, larger inventory slot requirements
 
  +1/2 Ton Ammo Containers for all weapons?
- 
+
  ### Mech Variants:
 
 **None additional planned at this time. All Implemented as of 3/6/20.**
@@ -117,25 +135,25 @@
 
 +Revision #2 of Large Lasers & PPCs
 
-+Revision #1 of Pulse weapon Heat requirements. 
++Revision #1 of Pulse weapon Heat requirements.
 
  +All Lostek weapons to be added to all shops with high rarity
- 
+
   +All Head shot chances reduced against all targets. This will lower the possibility of getting random head shots from any weapons fire Unless the enemy is on higher elevation than you. If there is an elevation imbalance the mech with the higher ground gets a bonus to head shot percentages. (*Pending Implementation*)
   (--I want to look into lowering the chance of head shots from the side as well. I feel like if you want to shoot somebody in the head you should have to do it from head on. )
 
 # Misc. Notes
 
   +Mechs with (XXL) Engines have critical slots permanently occupied on left and right torso sections to adjust for decreased weight. These critical slots are considered explosive to the location only. This configuration is unique to mech variants and can not be transferred to other mechs via mechlab.
-  
-  +Mech chassis that come with Gyro's or rangefinders pre-installed will not allow them to be removed. Similar in fashion to Warhammer and Phoenix Hawk Variants. 
+
+  +Mech chassis that come with Gyro's or rangefinders pre-installed will not allow them to be removed. Similar in fashion to Warhammer and Phoenix Hawk Variants.
 
  After reading above you'll quickly realize most of these adjustments are not in line with Table Top or anything else for that matter. My goal is to just create a fun experience for as many people as I can.
 
 ### Installation Notes:
- 
+
  Currently the mod uses MODTEK to install and is functional with Battletech version 1.9.1 . All creative inputs welcome!
- 
+
  **The Mod folder needs to be called, "BattleTactics" when placed in your ModTeK Mod Folder.**
 
  Disclaimer: *I am not an expert modder, just an enthusiast of the game.
