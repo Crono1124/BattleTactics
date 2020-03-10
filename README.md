@@ -23,7 +23,11 @@
 
  +Allow the AI to utilize more alpha strikes. Unless the AI will overheat, or has a less than ~10% chance of hitting you. Expect the AI to give you the full business with every possible shot. What you do to them, They will now do to you :) (*Requires slight tweaks... AI Logic still prefers to single shot or punch but has improved)
 
- ### New Ammo Types:
+### New Ammo Types:
+
+ +CASE Ammo for all weapon types: Same tonnage, less explody, larger inventory slot requirements
+
+ +1/2 Ton Ammo Containers for all weapons that require ammo
 
  Chemical Laser Ammo: Quantity per box in testing.
 
@@ -114,10 +118,6 @@
  Weapons:
 
  ### Ammo Types:
-
- +CASE Ammo for all weapon types: Same tonnage, less explody, larger inventory slot requirements
-
- +1/2 Ton Ammo Containers for all weapons?
 
  ### Mech Variants:
 
