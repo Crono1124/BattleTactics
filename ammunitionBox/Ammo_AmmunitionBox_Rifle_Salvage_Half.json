@@ -6,10 +6,10 @@
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Raider",
-        "Model" : "Salvage Rounds IMPACT",
-        "UIName" : "Salvage Rifle Ammo",
+        "Model" : "HALF Salvage Rounds IMPACT",
+        "UIName" : "HALF Salvage Rifle Ammo",
         "Id" : "Ammo_AmmunitionBox_Rifle_Salvage",
-        "Name" : "Salvage Rifle Ammo",
+        "Name" : "HALF Salvage Rifle Ammo",
         "Details" : "Container of IMPACT ammunition for Salvage Rifles",
         "Icon" : "uixSvgIcon_weapon_Ballistic"
     },

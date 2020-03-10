@@ -6,10 +6,10 @@
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Generic",
-        "Model" : "AC10",
-        "UIName" : "AC/10 Ammo",
+        "Model" : "HALF AC10",
+        "UIName" : "HALF AC/10 Ammo",
         "Id" : "Ammo_AmmunitionBox_Generic_AC10_Half",
-        "Name" : "AC/10 Ammo",
+        "Name" : "HALF AC/10 Ammo",
         "Details" : "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Ammo Bins will explode and destroy their installed location when they receive a Critical Hit.\n\nAC/10 Ammo Bins each contain 8 rounds and may feed multiple weapons.",
         "Icon" : "uixSvgIcon_ammoBox_Ballistic"
     },

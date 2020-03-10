@@ -6,10 +6,10 @@
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Generic",
-        "Model" : "SRM",
-        "UIName" : "SRM Ammo",
+        "Model" : "HALF SRM",
+        "UIName" : "HALF SRM Ammo",
         "Id" : "Ammo_AmmunitionBox_Generic_SRM_Half",
-        "Name" : "SRM Ammo",
+        "Name" : "HALF SRM Ammo",
         "Details" : "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Ammo Bins will explode and destroy their installed location when they receive a Critical Hit.\n\nSRM Ammo Bins each contain 50 rounds and may feed multiple weapons.",
         "Icon" : "uixSvgIcon_ammoBox_Missile"
     },

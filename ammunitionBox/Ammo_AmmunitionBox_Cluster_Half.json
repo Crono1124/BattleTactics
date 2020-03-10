@@ -6,10 +6,10 @@
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Xenotech",
-        "Model" : "Cluster Ammo",
-        "UIName" : "LRM Cluster Munition Ammo",
+        "Model" : "HALF Cluster Ammo",
+        "UIName" : "HALF LRM Cluster Munition Ammo",
         "Id" : "Ammo_AmmunitionBox_Cluster",
-        "Name" : "LRM Cluser Munition Ammo",
+        "Name" : "HALF LRM Cluser Munition Ammo",
         "Details" : "Container of Cluster Munitions for Long Range Bomblets",
         "Icon" : "uixSvgIcon_weapon_Missile"
     },

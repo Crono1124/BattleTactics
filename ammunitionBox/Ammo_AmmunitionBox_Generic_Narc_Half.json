@@ -6,10 +6,10 @@
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Generic",
-        "Model" : "Narc",
-        "UIName" : "Narc Ammo",
+        "Model" : "HALF Narc",
+        "UIName" : "HALF Narc Ammo",
         "Id" : "Ammo_AmmunitionBox_Generic_Narc_Half",
-        "Name" : "Narc Beacon Ammo",
+        "Name" : "HALF Narc Beacon Ammo",
         "Details" : "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Ammo Bins will explode and destroy their installed location when they receive a Critical Hit.\n\nNarc Beacon Ammo Bins each contain 3 rounds and may feed multiple weapons.",
         "Icon" : "uixSvgIcon_ammoBox_Missile"
     },

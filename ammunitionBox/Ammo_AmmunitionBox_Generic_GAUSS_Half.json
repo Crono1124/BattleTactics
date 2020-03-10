@@ -6,10 +6,10 @@
         "Rarity" : 100,
         "Purchasable" : true,
         "Manufacturer" : "Generic",
-        "Model" : "GAUSS",
-        "UIName" : "Gauss Ammo",
+        "Model" : "HALF GAUSS",
+        "UIName" : "HALF Gauss Ammo",
         "Id" : "Ammo_AmmunitionBox_Generic_GAUSS_Half",
-        "Name" : "Gauss Ammo",
+        "Name" : "HALF Gauss Ammo",
         "Details" : "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.\n\nGauss Ammo Bins each contain 8 rounds and may feed multiple weapons. Uniquely, Gauss Ammo Bins do not explode from Critical Hits.",
         "Icon" : "uixSvgIcon_ammoBox_Ballistic"
     },

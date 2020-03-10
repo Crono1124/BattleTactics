@@ -6,10 +6,10 @@
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Raider",
-        "Model" : "EMP Disruptor Rounds",
-        "UIName" : "EMP Disruptor Ammo",
+        "Model" : "HALF EMP Disruptor Rounds",
+        "UIName" : "HALF EMP Disruptor Ammo",
         "Id" : "Ammo_AmmunitionBox_Rifle_Disruptor_Half",
-        "Name" : "Salvage Rifle Ammo",
+        "Name" : "HALF Salvage Rifle Ammo",
         "Details" : "Container of EMP rounds for Disruptor Rifles",
         "Icon" : "uixSvgIcon_weapon_Energy"
     },

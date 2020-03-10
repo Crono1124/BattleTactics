@@ -6,10 +6,10 @@
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Xenotech",
-        "Model" : "HMG Ammo",
-        "UIName" : "Heavy Machine Gun Ammo",
+        "Model" : "HALF HMG Ammo",
+        "UIName" : "HALF Heavy Machine Gun Ammo",
         "Id" : "Ammo_AmmunitionBox_HMG_Half",
-        "Name" : "Heavy Machine Gun Ammo",
+        "Name" : "HALF Heavy Machine Gun Ammo",
         "Details" : "Container of Heavy Machine Gun Rounds",
         "Icon" : "uixSvgIcon_weapon_Missile"
     },

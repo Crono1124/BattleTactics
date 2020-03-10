@@ -6,10 +6,10 @@
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Xenotech",
-        "Model" : "Chem Ammo",
-        "UIName" : "Chem Laser Ammo",
+        "Model" : "HALF Chem Ammo",
+        "UIName" : "HALF Chem Laser Ammo",
         "Id" : "Ammo_AmmunitionBox_Generic_Chem_Half",
-        "Name" : "Chemical Laser Ammo",
+        "Name" : "HALF Chemical Laser Ammo",
         "Details" : "Container of liquid ammunition for Chemical Lasers.",
         "Icon" : "uixSvgIcon_weapon_Energy"
     },

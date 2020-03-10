@@ -6,10 +6,10 @@
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Xenotech",
-        "Model" : "SRMAP",
-        "UIName" : "SRMAP Ammo",
+        "Model" : "HALF SRMAP",
+        "UIName" : "HALF SRMAP Ammo",
         "Id" : "Ammo_AmmunitionBox_SRMAP_Half",
-        "Name" : "SRMAP Ammo Ammo",
+        "Name" : "HALF SRMAP Ammo Ammo",
         "Details" : "Container of Armor Piercing Missiles for SRMAP Launchers",
         "Icon" : "uixSvgIcon_weapon_Missile"
     },
