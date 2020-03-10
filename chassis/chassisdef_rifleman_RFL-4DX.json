@@ -8,10 +8,10 @@
         "UIName": "Rifleman",
         "Id": "chassisdef_rifleman_RFL-4DX",
         "Name": "Rifleman",
-        "Details": "The experimental variant RFL-4DX sacrifices the Rifleman's Autocannons for an all-energy weapon loadout but improves upon the heat issues of the original 4D with SLDF Doubl eHeatinks. The 4DX is best suited for a sniper role but can easily bring all of its weapons to bear like a giant energy shotgun. The engineers even upgraded the stock drivetrain with an experimental robinson T20 to boot!",
+        "Details": "The experimental variant RFL-4DX sacrifices the Rifleman's Autocannons for an all-energy weapon loadout but improves upon the heat issues of the original 4D with SLDF Double Heatinks. The 4DX is best suited for a sniper role but can easily bring all of its weapons to bear like a giant energy shotgun. The engineers even upgraded the stock drivetrain with an experimental robinson T20 to boot!",
         "Icon": "uixTxrIcon_rifleman"
     },
-    "MovementCapDefID": "movedef_rifleman_RFL-4D",
+    "MovementCapDefID": "movedef_rifleman_RFL-4DX",
     "PathingCapDefID": "pathingdef_heavy",
     "HardpointDataDefID": "hardpointdatadef_rifleman",
     "PrefabIdentifier": "chrPrfMech_riflemanBase-001",
@@ -212,7 +212,7 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Sniper",
-    "YangsThoughts": "The experimental variant RFL-4DX sacrifices the Rifleman's Autocannons for an all-energy weapon loadout but improves upon the heat issues of the original 4D with SLDF Doubl eHeatinks. The 4DX is best suited for a sniper role but can easily bring all of its weapons to bear like a giant energy shotgun. The engineers even upgraded the stock drivetrain with an experimental robinson T20 to boot!",
+    "YangsThoughts": "The experimental variant RFL-4DX sacrifices the Rifleman's Autocannons for an all-energy weapon loadout but improves upon the heat issues of the original 4D with SLDF Double Heatinks. The 4DX is best suited for a sniper role but can easily bring all of its weapons to bear like a giant energy shotgun. The engineers even upgraded the stock drivetrain with an experimental robinson T20 to boot!",
     "FixedEquipment" : [
         {
             "MountedLocation" : "Head",
