@@ -6,10 +6,10 @@
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Xenotech",
-        "Model" : "Chem Ammo",
-        "UIName" : "Chem Laser Ammo",
+        "Model" : "C.A.S.E. Chem Ammo",
+        "UIName" : "C.A.S.E. Chem Laser Ammo",
         "Id" : "Ammo_AmmunitionBox_Generic_Chem_CASE",
-        "Name" : "Chemical Laser Ammo",
+        "Name" : "C.A.S.E. Chemical Laser Ammo",
         "Details" : "C.A.S.E.; Cellular Ammunition Storage Equipment Container of liquid ammunition for Chemical Lasers.",
         "Icon" : "uixSvgIcon_weapon_Energy"
     },

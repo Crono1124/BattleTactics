@@ -6,10 +6,10 @@
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Generic",
-        "Model" : "LB10X",
-        "UIName" : "LB 10-X Ammo",
+        "Model" : "C.A.S.E. LB10X",
+        "UIName" : "C.A.S.E. LB 10-X Ammo",
         "Id" : "Ammo_AmmunitionBox_Generic_LB10X_CASE",
-        "Name" : "LB 10-X Ammo",
+        "Name" : "C.A.S.E. LB 10-X Ammo",
         "Details" : "C.A.S.E.; Cellular Ammunition Storage Equipment Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Ammo Bins will explode and destroy their installed location when they receive a Critical Hit.\n\nLB 10-X Ammo Bins each contain 8 rounds and may feed multiple weapons.",
         "Icon" : "uixSvgIcon_ammoBox_Ballistic"
     },

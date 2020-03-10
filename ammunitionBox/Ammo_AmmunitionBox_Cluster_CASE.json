@@ -6,10 +6,10 @@
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Xenotech",
-        "Model" : "Cluster Ammo",
-        "UIName" : "LRM Cluster Munition Ammo",
+        "Model" : "C.A.S.E. Cluster Ammo",
+        "UIName" : "C.A.S.E. LRM Cluster Munition Ammo",
         "Id" : "Ammo_AmmunitionBox_Cluster_CASE",
-        "Name" : "LRM Cluser Munition Ammo",
+        "Name" : "C.A.S.E. LRM Cluser Munition Ammo",
         "Details" : "Container of C.A.S.E.; Cellular Ammunition Storage Equipment Cluster Munitions for Long Range Bomblets",
         "Icon" : "uixSvgIcon_weapon_Missile"
     },

@@ -6,10 +6,10 @@
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Xenotech",
-        "Model" : "HMG Ammo",
-        "UIName" : "Heavy Machine Gun Ammo",
+        "Model" : "C.A.S.E. HMG Ammo",
+        "UIName" : "C.A.S.E. Heavy Machine Gun Ammo",
         "Id" : "Ammo_AmmunitionBox_HMG_CASE",
-        "Name" : "Heavy Machine Gun Ammo",
+        "Name" : "C.A.S.E. Heavy Machine Gun Ammo",
         "Details" : "C.A.S.E.; Cellular Ammunition Storage Equipment Container of Heavy Machine Gun Rounds",
         "Icon" : "uixSvgIcon_weapon_Missile"
     },

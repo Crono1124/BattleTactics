@@ -6,10 +6,10 @@
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Xenotech",
-        "Model" : "SRMAP",
-        "UIName" : "SRMAP Ammo",
+        "Model" : "C.A.S.E. SRMAP",
+        "UIName" : "C.A.S.E. SRMAP Ammo",
         "Id" : "Ammo_AmmunitionBox_SRMAP_CASE",
-        "Name" : "SRMAP Ammo Ammo",
+        "Name" : "C.A.S.E. SRMAP Ammo Ammo",
         "Details" : "C.A.S.E.; Cellular Ammunition Storage Equipment Container of Armor Piercing Missiles for SRMAP Launchers",
         "Icon" : "uixSvgIcon_weapon_Missile"
     },

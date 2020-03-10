@@ -6,10 +6,10 @@
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Raider",
-        "Model" : "EMP Disruptor Rounds",
-        "UIName" : "EMP Disruptor Ammo",
+        "Model" : "C.A.S.E. EMP Disruptor Rounds",
+        "UIName" : "C.A.S.E. EMP Disruptor Ammo",
         "Id" : "Ammo_AmmunitionBox_Rifle_Disruptor_CASE",
-        "Name" : "Salvage Rifle Ammo",
+        "Name" : "C.A.S.E. Salvage Rifle Ammo",
         "Details" : "C.A.S.E.; Cellular Ammunition Storage Equipment Container of EMP rounds for Disruptor Rifles",
         "Icon" : "uixSvgIcon_weapon_Energy"
     },

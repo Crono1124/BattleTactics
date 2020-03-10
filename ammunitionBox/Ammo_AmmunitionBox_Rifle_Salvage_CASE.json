@@ -6,10 +6,10 @@
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Raider",
-        "Model" : "Salvage Rounds IMPACT",
-        "UIName" : "Salvage Rifle Ammo",
+        "Model" : "C.A.S.E. Salvage Rounds IMPACT",
+        "UIName" : "C.A.S.E. Salvage Rifle Ammo",
         "Id" : "Ammo_AmmunitionBox_Rifle_Salvage_CASE",
-        "Name" : "Salvage Rifle Ammo",
+        "Name" : "C.A.S.E. Salvage Rifle Ammo",
         "Details" : "C.A.S.E.; Cellular Ammunition Storage Equipment Container of IMPACT ammunition for Salvage Rifles",
         "Icon" : "uixSvgIcon_weapon_Ballistic"
     },
