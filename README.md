@@ -79,6 +79,8 @@
 
  Centurion-LL: Multi-Role Brawler
 
+ Orion-VT: Definitive Brawler Variant that is Heavily Armored, equipped with a high output fusion core, Dual Heavy Machine Guns, A Trio of SRM6, and a pair of chemical lasers. Reach out and touch somebody today!
+
  Locust_LCT-1T: Armor Piercing Variant (Possible Starting Mech)
 
  Jenner JR7-1C: Quad Chemical Lasers (Great for high heat Biome); Twin SRM4 Armor Piercing. (Possible Starting Mech)
