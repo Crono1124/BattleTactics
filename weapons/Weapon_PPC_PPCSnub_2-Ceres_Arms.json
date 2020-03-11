@@ -1,18 +1,18 @@
 {
     "Category" : "Energy",
     "Type" : "PPC",
-    "WeaponSubType" : "PPC",
-    "MinRange" : 90,
-    "MaxRange" : 540,
+    "WeaponSubType" : "PPCSnub",
+    "MinRange" : 0,
+    "MaxRange" : 360,
     "RangeSplit" : [
-        360,
-        360,
-        540
+        270,
+        270,
+        360
     ],
     "ammoCategoryID" : "NotSet",
     "StartingAmmoCapacity" : 0,
-    "HeatGenerated" : 24,
-    "Damage" : 60,
+    "HeatGenerated" : 35,
+    "Damage" : 15,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,
     "EvasivePipsIgnored" : 0,
@@ -22,35 +22,35 @@
     "CriticalChanceMultiplier" : 1,
     "AOECapable" : false,
     "IndirectFireCapable" : false,
-    "RefireModifier" : 0,
-    "ShotsWhenFired" : 1,
+    "RefireModifier" : 1,
+    "ShotsWhenFired" : 5,
     "ProjectilesPerShot" : 1,
-    "AttackRecoil" : 3,
-    "Instability" : 20,
-    "WeaponEffectID" : "WeaponEffect-Weapon_PPC",
+    "AttackRecoil" : 1,
+    "Instability" : 15,
+    "WeaponEffectID" : "WeaponEffect-Weapon_PPCSnub",
     "Description" : {
-        "Cost" : 180000,
-        "Rarity" : 0,
+        "Cost" : 340000,
+        "Rarity" : 99,
         "Purchasable" : true,
-        "Manufacturer" : "Magna",
-        "Model" : "Particle Projector Cannon",
-        "UIName" : "PPC",
-        "Id" : "Weapon_PPC_PPC_0-STOCK",
-        "Name" : "PPC",
-        "Details" : "Particle Projector Cannons\u2014PPCs\u2014fire streams of energized lightning at their target that deal substantial damage and stability impact. However, this comes with intense heat generation and bulkiness. PPCs also generate a mild EM field that degrades the firing capability of their target.",
+        "Manufacturer" : "Ceres Arms",
+        "Model" : "Particle Cluster Cannon",
+        "UIName" : "Snub PPC + +",
+        "Id" : "Weapon_PPC_PPCSnub_2-Ceres_Arms",
+        "Name" : "Snub PPC + +",
+        "Details" : "A unique modification of a standard Particle Projector Cannon, the Snub PPC utilizes the same energy acceleration, but with a shortened range and a cluster of smaller projectiles. Like the standard model, Snub PPC shots impart a debilitating EM effect that degrades the firing capability of their target.",
         "Icon" : "uixSvgIcon_weapon_Energy"
     },
-    "BonusValueA" : "",
+    "BonusValueA" : "+ 10 Stb.Dmg.",
     "BonusValueB" : "",
     "ComponentType" : "Weapon",
     "ComponentSubType" : "Weapon",
     "PrefabIdentifier" : "PPC",
-    "BattleValue" : 0,
     "InventorySize" : 2,
-    "Tonnage" : 5,
+    "Tonnage" : 6,
     "AllowedLocations" : "All",
     "DisallowedLocations" : "All",
     "CriticalComponent" : false,
+    "VolleyDivisor" : 1,
     "statusEffects" : [
         {
             "durationData" : {
@@ -78,7 +78,7 @@
             "Description" : {
                 "Id" : "AbilityDefPPC",
                 "Name" : "SENSORS IMPAIRED",
-                "Details" : "[AMT] Difficulty to all of this unit's attacks until its next activation.",
+                "Details" : "+[AMT] Difficulty to all of this unit's attacks until its next activation.",
                 "Icon" : "uixSvgIcon_status_sensorsImpaired"
             },
             "nature" : "Debuff",
@@ -106,8 +106,11 @@
     ],
     "ComponentTags" : {
         "items" : [
-            "component_type_stock",
-            "range_very-long"
+            "component_type_variant",
+            "component_type_variant2",
+            "range_standard",
+            "component_type_lostech",
+            "BLACKLISTED"
         ],
         "tagSetSourceFile" : ""
     }

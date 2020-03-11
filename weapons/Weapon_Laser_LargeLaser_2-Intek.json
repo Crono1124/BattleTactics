@@ -11,8 +11,8 @@
     ],
     "ammoCategoryID" : "NotSet",
     "StartingAmmoCapacity" : 0,
-    "HeatGenerated" : 16,
-    "Damage" : 55,
+    "HeatGenerated" : 18,
+    "Damage" : 50,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,
     "EvasivePipsIgnored" : 0,
@@ -52,7 +52,7 @@
     "DisallowedLocations" : "All",
     "CriticalComponent" : false,
     "statusEffects" : [
-
+        
     ],
     "ComponentTags" : {
         "items" : [

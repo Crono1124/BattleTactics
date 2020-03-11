@@ -11,8 +11,8 @@
     ],
     "ammoCategoryID" : "NotSet",
     "StartingAmmoCapacity" : 0,
-    "HeatGenerated" : 12,
-    "Damage" : 35,
+    "HeatGenerated" : 6,
+    "Damage" : 25,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,
     "EvasivePipsIgnored" : 0,
@@ -57,8 +57,10 @@
     "ComponentTags" : {
         "items" : [
             "component_type_stock",
+            "component_type_lostech",
             "range_close",
-			   ],
+			"BLACKLISTED"
+        ],
         "tagSetSourceFile" : ""
     }
 }
