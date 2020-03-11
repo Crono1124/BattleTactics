@@ -42,7 +42,7 @@
         "Icon" : "uixSvgIcon_weapon_Missile"
     },
     "BonusValueA" : "+4 AP Dmg",
-    "BonusValueB" : "",
+    "BonusValueB" : "0.5 Crit rate",
     "ComponentType" : "Weapon",
     "ComponentSubType" : "Weapon",
     "PrefabIdentifier" : "srm2",

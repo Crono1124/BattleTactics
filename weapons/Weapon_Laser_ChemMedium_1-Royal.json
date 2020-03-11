@@ -40,7 +40,7 @@
         "Details" : "Medium Chemical Lasers are standard lasers modified to utilize a chemical agent to fire reducing heat generated. All Chemical Lasers leave a trace amount of residual heat on the target after firing",
         "Icon" : "uixSvgIcon_weapon_Energy"
     },
-    "BonusValueA" : "+4 Dmg",
+    "BonusValueA" : "+5 Dmg",
     "BonusValueB" : "-0.5 Ton",
     "ComponentType" : "Weapon",
     "ComponentSubType" : "Weapon",

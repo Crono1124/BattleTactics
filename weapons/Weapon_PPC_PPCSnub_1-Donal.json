@@ -46,7 +46,7 @@
     "ComponentSubType" : "Weapon",
     "PrefabIdentifier" : "PPC",
     "InventorySize" : 2,
-    "Tonnage" : 6,
+    "Tonnage" : 4,
     "AllowedLocations" : "All",
     "DisallowedLocations" : "All",
     "CriticalComponent" : false,

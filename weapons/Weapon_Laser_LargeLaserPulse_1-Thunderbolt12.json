@@ -11,8 +11,8 @@
     ],
     "ammoCategoryID" : "NotSet",
     "StartingAmmoCapacity" : 0,
-    "HeatGenerated" : 30,
-    "Damage" : 60,
+    "HeatGenerated" : 18,
+    "Damage" : 55,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,
     "EvasivePipsIgnored" : 0,
@@ -47,12 +47,12 @@
     "PrefabIdentifier" : "Laser",
     "BattleValue" : 0,
     "InventorySize" : 2,
-    "Tonnage" : 6,
+    "Tonnage" : 2,
     "AllowedLocations" : "All",
     "DisallowedLocations" : "All",
     "CriticalComponent" : false,
     "statusEffects" : [
-        
+
     ],
     "ComponentTags" : {
         "items" : [

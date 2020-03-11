@@ -18,7 +18,7 @@
     "EvasivePipsIgnored" : 0,
     "DamageVariance" : 0,
     "HeatDamage" : 0,
-    "AccuracyModifier" : -1,
+    "AccuracyModifier" : -2,
     "CriticalChanceMultiplier" : 1.25,
     "AOECapable" : false,
     "IndirectFireCapable" : false,
@@ -41,7 +41,7 @@
         "Icon" : "uixSvgIcon_weapon_Support"
     },
     "BonusValueA" : "+ 5 Dmg.",
-    "BonusValueB" : "",
+    "BonusValueB" : "+ ACC",
     "ComponentType" : "Weapon",
     "ComponentSubType" : "Weapon",
     "PrefabIdentifier" : "Laser",
@@ -52,7 +52,7 @@
     "DisallowedLocations" : "All",
     "CriticalComponent" : false,
     "statusEffects" : [
-        
+
     ],
     "ComponentTags" : {
         "items" : [

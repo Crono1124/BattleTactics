@@ -3,11 +3,11 @@
     "Type" : "Laser",
     "WeaponSubType" : "LargeLaserPulse",
     "MinRange" : 0,
-    "MaxRange" : 750,
+    "MaxRange" : 690,
     "RangeSplit" : [
-        300,
-        300,
-        750
+        510,
+        510,
+        690
     ],
     "ammoCategoryID" : "Chem",
     "StartingAmmoCapacity" : 0,

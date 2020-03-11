@@ -18,7 +18,7 @@
     "EvasivePipsIgnored" : 0,
     "DamageVariance" : 0,
     "HeatDamage" : 6,
-    "AccuracyModifier" : -6,
+    "AccuracyModifier" : -1,
     "CriticalChanceMultiplier" : 6,
     "AOECapable" : false,
     "IndirectFireCapable" : false,

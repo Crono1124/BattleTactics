@@ -11,7 +11,7 @@
     ],
     "ammoCategoryID" : "NotSet",
     "StartingAmmoCapacity" : 0,
-    "HeatGenerated" : 6,
+    "HeatGenerated" : 0,
     "Damage" : 20,
     "OverheatedDamageMultiplier" : 0,
     "EvasiveDamageMultiplier" : 0,
@@ -41,7 +41,7 @@
         "Icon" : "uixSvgIcon_weapon_Support"
     },
     "BonusValueA" : "+ 3 Acc.",
-    "BonusValueB" : "",
+    "BonusValueB" : "-6 Heat",
     "ComponentType" : "Weapon",
     "ComponentSubType" : "Weapon",
     "PrefabIdentifier" : "Laser",
@@ -52,7 +52,7 @@
     "DisallowedLocations" : "All",
     "CriticalComponent" : false,
     "statusEffects" : [
-        
+
     ],
     "ComponentTags" : {
         "items" : [
