@@ -8,7 +8,7 @@
         "UIName": "Cicada",
         "Id": "chassisdef_cicada_CDA-4D",
         "Name": "Cicada",
-        "Details": "The Cicada 4D is slightly faster than the 2A thanks to its XXL engine mount and comes equipped with better weaponry and armor.",
+        "Details": "The Cicada 4D is slightly faster than the 2A thanks to its XXL engine mount with improved armor to enhance survivanility. Equipped with Quad Heavy Machine Guns and small lasers for close in combat with an Extended Range Large Laser to close the distance.",
         "Icon": "uixTxrIcon_cicada"
     },
     "MovementCapDefID": "movedef_cicada_CDA-2A",
@@ -210,11 +210,47 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Scout & Sniper",
-    "YangsThoughts": "The Cicada 4D is slightly faster than the 2A thanks to its XXL engine mount and comes equipped with better weaponry and armor.",
+    "YangsThoughts": "The Cicada 4D is slightly faster than the 2A thanks to its XXL engine mount with improved armor to enhance survivanility. Equipped with Quad Heavy Machine Guns and small lasers for close in combat with an Extended Range Large Laser to close the distance.",
 	"FixedEquipment" : [
         {
             "MountedLocation" : "LeftTorso",
             "ComponentDefID" : "LeftCrit",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Upgrade",
+            "HardpointSlot" : -1,
+            "IsFixed" : true,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "LeftArm",
+            "ComponentDefID" : "Gear_Actuator_Friedhof_Perseus",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Upgrade",
+            "HardpointSlot" : -1,
+            "IsFixed" : true,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "RightArm",
+            "ComponentDefID" : "Gear_Actuator_Friedhof_Perseus",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Upgrade",
+            "HardpointSlot" : -1,
+            "IsFixed" : true,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "CenterTorso",
+            "ComponentDefID" : "Gear_General_Close_Quarters_Combat_Suite",
             "SimGameUID" : "",
             "ComponentDefType" : "Upgrade",
             "HardpointSlot" : -1,
