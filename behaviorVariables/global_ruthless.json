@@ -2,31 +2,34 @@
     "behaviorVariables" : [
 	{
 	    /* How much accuracy (0.0 - 1.0) is required to consider
-	       an attack that will overheat  default 0.75 */
+	       an attack that will overheat */
+         /* CHANGED VALUE!!!!! Default Value 0.75*/
             "k" : "Float_AccuracyNeededForOverheatAttack",
             "v" : {
 		"type" : "Float",
-		"floatVal" : 0.5
+		"floatVal" : 0.25
             }
 	},
 	{
 	    /* How much a location must be damaged before an overheat
 	       attack will be considered, as a fraction from 0.0
 	       (undamaged) to 1.0 (location destroyed) */
+         /* CHANGED VALUE!!!!! Default Value 0.85*/
             "k" : "Float_ExistingTargetDamageForOverheatAttack",
             "v" : {
 		"type" : "Float",
-		"floatVal" : 0.85
+		"floatVal" : 0.25
             }
 	},
 	{
 	    /* How much a location must be damaged before a DFA attack
 	       will be considered , as a fraction from 0.0 (undamaged)
 	       to 1.0 (location destroyed) */
+         /* CHANGED VALUE!!!!! Default Value 0.5*/
             "k" : "Float_ExistingTargetDamageForDFAAttack",
             "v" : {
 		"type" : "Float",
-		"floatVal" : 0.5
+		"floatVal" : 0.25
             }
 	},
 	{
@@ -678,9 +681,10 @@
 	    /* Base chance for a called shot to the head. Not "out of"
 	       100, or any fixed number, out of the total
 	       applicable. */
+         /* CHANGED VALUE!!!!! Default Value 15.0*/
 	    "v" : {
 		"type" : "Float",
-		"floatVal" : 15.0
+		"floatVal" : 35.0
 	    }
 	},
 	{
@@ -991,11 +995,12 @@
 	    /* Evasive "to hit" floor - if the to-hit is below this
 	       percentage (0.0 - 100.0), only shoot a single
 	       "conservative" shot. Note: ignored for attackers that
-	       are not mechs. Default 40%*/
+	       are not mechs. */
+         /* CHANGED VALUE!!!!! Default Value 40.0*/
 	    "k" : "Float_EvasiveToHitFloor",
 	    "v" : {
 		"type": "Float",
-		"floatVal" : 05.0
+		"floatVal" : 00.0
 	    }
 	},
 	{

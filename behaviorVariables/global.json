@@ -13,10 +13,11 @@
 	    /* How much a location must be damaged before an overheat
 	       attack will be considered, as a fraction from 0.0
 	       (undamaged) to 1.0 (location destroyed) */
+         /* Default Value 0.8*/
             "k" : "Float_ExistingTargetDamageForOverheatAttack",
             "v" : {
 		"type" : "Float",
-		"floatVal" : 0.85
+		"floatVal" : 0.50
             }
 	},
 	{
@@ -153,7 +154,8 @@
 	},
 	{
 	    /* Influence Factor Weight for preferring higher
-	       elevations.  original 0.2 */
+	       elevations. */
+         /* CHANGED VALUE!!!!! Default Value 0.2*/
             "k" : "Float_PreferHigherPositionFactorWeight",
             "v" : {
 		"type" : "Float",
@@ -350,10 +352,11 @@
 	    /* When considering different kinds of attacks, multiply
 	       the melee damage by this value to decide which attack
 	       to use. */
+         /* CHANGED VALUE!!!!! Default Value 2*/
             "k" : "Float_MeleeDamageMultiplier",
             "v" : {
 		"type" : "Float",
-		"floatVal" : 2
+		"floatVal" : 1.5
             }
 	},
 	{
@@ -361,10 +364,11 @@
 	       target, multiply the melee damage by this value to
 	       decide which attack to use. This is in addition to the
 	       base melee multiplier, above. */
+         /* CHANGED VALUE!!!!! Default Value 1.6*/
             "k" : "Float_MeleeVsUnsteadyTargetDamageMultiplier",
             "v" : {
 		"type" : "Float",
-		"floatVal" : 1.6
+		"floatVal" : 2.0
             }
 	},
 	{
@@ -389,10 +393,11 @@
 	{
 	    /* Influence Factor Weight to control the desire to be
 	       inside e.g. forests. */
+         /* CHANGED VALUE!!!!! Default Value 0.3*/
             "k" : "Float_PreferLessTargetableLocationFactorWeight",
             "v" : {
 		"type" : "Float",
-		"floatVal" : 0.3
+		"floatVal" : 0.4
             }
 	},
 	{
@@ -407,10 +412,11 @@
 	{
 	    /* Influence Factor Weight to control the desire to be
 	       inside water. */
+         /* CHANGED VALUE!!!!! Default Value 0.2*/
             "k" : "Float_PreferHigherHeatSinkLocationsFactorWeight",
             "v" : {
 		"type" : "Float",
-		"floatVal" : 0.2
+		"floatVal" : 0.3
             }
 	},
 	{
@@ -497,10 +503,11 @@
 	{
 	    /* Ratio between hostile's expected damage and my hit points to
 	       be used for "Threat" threat sorting. */
+         /* CHANGED VALUE!!!!! Default Value 0.7*/
             "k" : "Float_ThreatDamageRatioThreshold",
             "v" : {
 		"type" : "Float",
-		"floatVal" : 0.7
+		"floatVal" : 0.5
             }
 	},
 	{
@@ -651,10 +658,11 @@
 	    /* How much of expected melee damage to add in again as
 	       bonus damage when attacking braced targets (0 - none,
 	       1 - 100% bonus damage) */
+         /* CHANGED VALUE!!!!! Default Value 1.5*/
             "k" : "Float_MeleeBonusMultiplierWhenAttackingBracedTargets",
             "v" : {
 		"type" : "Float",
-		"floatVal" : 1.5
+		"floatVal" : 3.0
             }
 	},
 	{
@@ -670,10 +678,11 @@
 	{
 	    /* Influence Factor Weight to control the desire to be
 	       inside forests or other locations that grant guard. */
+         /* CHANGED VALUE!!!!! Default Value 0.25*/
             "k" : "Float_PreferLocationsThatGrantGuardFactorWeight",
             "v" : {
 		"type" : "Float",
-		"floatVal" : 0.25
+		"floatVal" : 0.45
             }
 	},
 	{
@@ -753,10 +762,11 @@
 	{
 	    /* Threshold Percentage (100.0 equals 100%) of target hit
 	       points before we start trying to multi-target. */
+         /* CHANGED VALUE!!!!! Default Value 100.0*/
 	    "k" : "Float_MultiTargetOverkillThreshold",
 	    "v" : {
 		"type" : "Float",
-		"floatVal" : 110.0
+		"floatVal" : 100.0
 	    }
 	},
 	{
@@ -936,19 +946,21 @@
 	{
 	    /* Appetitive Influence Factor Weight to approach
 	       hostile's rear arc. */
+         /* CHANGED VALUE!!!!! Default Value 0.6*/
 	    "k" : "Float_AppetitivePreferApproachingRearArcOfHostileFactorWeight",
 	    "v" : {
 		"type" : "Float",
-		"floatVal" : 0.6
+		"floatVal" : 0.75
 	    }
 	},
 	{
 	    /* Appetitive Influence Factor Weight to approach
 	       hostile's rear arc WHEN SPRINTING. */
+         /* CHANGED VALUE!!!!! Default Value 0.8*/
 	    "k" : "Float_SprintAppetitivePreferApproachingRearArcOfHostileFactorWeight",
 	    "v" : {
 		"type" : "Float",
-		"floatVal" : 0.8
+		"floatVal" : 0.9
 	    }
 	},
 	{
@@ -1145,11 +1157,12 @@
 	    /* Evasive "to hit" floor - if the to-hit is below this
 	       percentage (0.0 - 100.0), only shoot a single
 	       "conservative" shot. Note: ignored for attackers that
-	       are not mechs. Default 40%*/
+	       are not mechs. */
+         /* CHANGED VALUE!!!!! Default Value 40.0*/
 	    "k" : "Float_EvasiveToHitFloor",
 	    "v" : {
 		"type": "Float",
-		"floatVal" : 5.0
+		"floatVal" : 10.0
 	    }
 	},
 	{
@@ -1158,10 +1171,11 @@
 	      locking turn needs to do over a straight up shooting
 	      turn before deciding to sensor lock. Positive is a
 	      shooting bias, negative is a sensor lock bias.*/
+        /* CHANGED VALUE!!!!! Default Value 35*/
 	    "k" : "Float_MinimumSensorLockQuality",
 	    "v" : {
 		"type": "Float",
-		"floatVal" : 35
+		"floatVal" : 55
 	    }
 	},
 	{
@@ -1243,6 +1257,7 @@
 	       compare the attack hit probability to this
 	       threshold. Attacks with a lower probability than this
 	       will not be considered to strip an evasive pip. */
+         /* CHANGED VALUE!!!!! Default Value 0.75. Probably needs to be modified*/
 	    "k" : "Float_PipStripAttackProbabilityThreshold",
 	    "v" : {
 		"type" : "Float",
@@ -1598,7 +1613,7 @@
 	    /* Weight for an influence factor that seeks to stay
 	       within ECM range of friendlies */
 		"k" : "Float_PreferFriendlyECMFields",
-		"v" : 
+		"v" :
 		{
 			"type" : "Float",
 			"floatVal" : 0.75
@@ -1608,7 +1623,7 @@
 	    /* Weight for an influence factor that seeks to stay
 	       within ECM range of friendlies WHEN SPRINTING */
 		"k" : "Float_SprintPreferFriendlyECMFields",
-		"v" : 
+		"v" :
 		{
 			"type" : "Float",
 			"floatVal" : 0.0
@@ -1618,7 +1633,7 @@
 	    /* Weight for an influence factor that seeks to stay
 	       within range of hostile ECM fields */
 		"k" : "Float_PreferHostileECMFields",
-		"v" : 
+		"v" :
 		{
 			"type" : "Float",
 			"floatVal" : 100
@@ -1628,7 +1643,7 @@
 	    /* Weight for an influence factor that seeks to stay
 	       within range of hostile ECM fields WHEN SPRINTING */
 		"k" : "Float_SprintPreferHostileECMFields",
-		"v" : 
+		"v" :
 		{
 			"type" : "Float",
 			"floatVal" : 100
@@ -1638,7 +1653,7 @@
 	    /* Weight for an influence factor that seeks to stay
 	       within range of hostile ECM fields to use Active Probe */
 		"k" : "Float_PreferActiveProbePositions",
-		"v" : 
+		"v" :
 		{
 			"type" : "Float",
 			"floatVal" : 0
@@ -1648,17 +1663,17 @@
 	    /* Weight for an influence factor that seeks to stay
 	       within range of hostile ECM fields to use Active Probe */
 		"k" : "Float_SprintPreferActiveProbePositions",
-		"v" : 
+		"v" :
 		{
 			"type" : "Float",
 			"floatVal" : 0
 		}
 	},
 	{
-	    /* Number of active probe targets before we even try to activate 
+	    /* Number of active probe targets before we even try to activate
 	    active probe */
 		"k" : "Int_MinimumActiveProbeCount",
-		"v" : 
+		"v" :
 		{
 			"type" : "Int",
 			"IntVal" : "999"
@@ -1668,7 +1683,7 @@
 	    /* Minimum number of stealth pips to allow for an ECM
 		ghosted mech to fire weapons */
 		"k" : "Int_MinimumECMGhostedPipsToFire",
-		"v" : 
+		"v" :
 		{
 			"type" : "Int",
 			"IntVal" : "2"
@@ -1677,7 +1692,7 @@
 	{
 	    /* Enables advanced navigation behaviors only in urban biomes */
 		"k" : "Bool_EnableUrbanBiomeNavigation",
-		"v" : 
+		"v" :
 		{
 			"type" : "Bool",
 			"boolVal" : true
@@ -1686,7 +1701,7 @@
 	{
 	    /* Enables advanced navigation behaviors on all biome types */
 		"k" : "Bool_EnableUrbanBiomeNavigationEverywhere",
-		"v" : 
+		"v" :
 		{
 			"type" : "Bool",
 			"boolVal" : false
@@ -1696,7 +1711,7 @@
 	    /*  Description: Float to track confidence in causing structural damage. Used to gague whether we should fire our weapon
 		from a ghosted state */
 		"k" : "Float_ConfidenceInSignificantDamageWhileGhostedLevel",
-		"v" : 
+		"v" :
 		{
 			"type" : "Float",
 			"floatVal" : 0.7
@@ -1704,10 +1719,10 @@
 	},
 	{
 	    /* When calculatiing expected damage, how much to lerp between the damage divided by number of weapons and the damage if every hit
-		was in the same location. 0 is damage divided and 1 is damage concentrated. 
+		was in the same location. 0 is damage divided and 1 is damage concentrated.
 		Increases with Float_GhostStateHysteresisMultiplierTurnIncrease */
 		"k" : "Float_WeaponDamageSpreadLerpValue",
-		"v" : 
+		"v" :
 		{
 			"type" : "Float",
 			"floatVal" : 0.5
@@ -1716,7 +1731,7 @@
 	{
 	    /*  When getting the chance in causing significant damage, how much weight to give the amount of structural damage caused. */
 		"k" : "Float_StructuralDamagePercentageMultiplier",
-		"v" : 
+		"v" :
 		{
 			"type" : "Float",
 			"floatVal" : 1
@@ -1726,25 +1741,25 @@
 	    /* When shooting in ghost state, lerp value to go from expected damage and max possible damage.
 		Increases with Float_GhostStateHysteresisMultiplierTurnIncrease */
 		"k" : "Float_ExpectedAndMaxDamageShootingInGhostStateLerp",
-		"v" : 
+		"v" :
 		{
 			"type" : "Float",
 			"floatVal" : 0
 		}
 	},
-	{	
+	{
 	    /* For every round the ai does not shoot in ghost state, it adds to a mutiplier that increases the confidence in causing higher damage */
 		"k" : "Float_GhostStateHysteresisMultiplierTurnIncrease",
-		"v" : 
+		"v" :
 		{
 			"type" : "Float",
 			"floatVal" : 0.3
 	}
 	},
-	{	
+	{
 	    /* Enables more precise predictions about expected damage by counting weapons in range and damage reductions of the unit*/
 		"k" : "Bool_ExpectedDamageAccuracyIncrease",
-		"v" : 
+		"v" :
 		{
 			"type" : "Bool",
 			"boolVal" : false
@@ -1753,7 +1768,7 @@
 	{
 	    /*Enables the long-range pathfinding to be aware of actors blocking movement in nodes globally */
 		"k" : "Bool_EnableLongRangePathfindingBeActorAware",
-		"v" : 
+		"v" :
 		{
 			"type" : "Bool",
 			"boolVal" : false
@@ -1762,17 +1777,17 @@
 	{
 	    /* How close to the target region do we switch to short-range pathfinding */
 		"k" : "Float_LongRangeToShortRangeDistanceThreshold",
-		"v" : 
+		"v" :
 		{
 			"type" : "Float",
 			"floatVal" : 10
 		}
 	},
 	{
-	    /* Weight penalty multiplier for losing the ECM counter aura when positioning. 
+	    /* Weight penalty multiplier for losing the ECM counter aura when positioning.
 		   If set to 1, it represents -Float_PreferHostileECMFields or -Float_SprintPreferHostileECMFields*/
 		"k" : "Float_PreferHostileECMFieldsPenaltyMultiplier",
-		"v" : 
+		"v" :
 		{
 			"type" : "Float",
 			"floatVal" : 1
@@ -1782,7 +1797,7 @@
 	    /* Whether when enemy is ghosted, to use sprint or walk distance as marker to calculate influence map positional factors.
 		Lerp is 0 - 1, Walking to Sprinting*/
 		"k" : "Float_SignalInWeapRngWhenEnemyGhostedWithinMoveDistance",
-		"v" : 
+		"v" :
 		{
 			"type" : "Float",
 			"floatVal" : 0.5
