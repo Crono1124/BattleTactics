@@ -76,7 +76,7 @@
                 "Details" : "Called Shots executed by this unit are more reliable.",
                 "Icon" : "UixSvgIcon_specialEquip_System"
             },
-            "statisticData" : 
+            "statisticData" :
             {
                 "appliesEachTick" : false,
                 "effectsPersistAfterDestruction" : false,
@@ -90,6 +90,7 @@
     ],
     "ComponentTags" : {
         "items" : [
+          "component_type_stock",
 			"BUILT-IN",
         ],
         "tagSetSourceFile" : ""

@@ -26,7 +26,7 @@
     "AllowedLocations" : "All",
     "DisallowedLocations" : "All",
     "CriticalComponent" : false,
-    "statusEffects" : [		
+    "statusEffects" : [
 		{
             "Description" : {
                 "Id" : "StatusEffect-TSM-WalkSpeed",
@@ -92,10 +92,11 @@
                 "targetAmmoCategory" : "NotSet",
                 "targetWeaponSubType" : "NotSet"
             }
-        }	
+        }
     ],
     "ComponentTags" : {
         "items" : [
+          "component_type_stock",
         ],
         "tagSetSourceFile" : ""
     }
