@@ -1,0 +1,64 @@
+{
+    "Category" : "Missile",
+    "Type" : "LRM",
+    "WeaponSubType" : "LRM5",
+    "MinRange" : 270,
+    "MaxRange" : 630,
+    "RangeSplit" : [
+        420,
+        420,
+        630
+    ],
+    "ammoCategoryID" : "Cluster",
+    "StartingAmmoCapacity" : 0,
+    "HeatGenerated" : 10,
+    "Damage" : 30,
+    "OverheatedDamageMultiplier" : 0,
+    "EvasiveDamageMultiplier" : 0,
+    "EvasivePipsIgnored" : 0,
+    "DamageVariance" : 0,
+    "HeatDamage" : 0,
+    "AccuracyModifier" : -3,
+    "CriticalChanceMultiplier" : 1,
+    "AOECapable" : false,
+    "IndirectFireCapable" : true,
+    "RefireModifier" : 0,
+    "ShotsWhenFired" : 1,
+    "ProjectilesPerShot" : 1,
+    "AttackRecoil" : 1,
+    "Instability" : 90,
+    "WeaponEffectID" : "WeaponEffect-Weapon_LRM5",
+    "Description" : {
+        "Cost" : 150000,
+        "Rarity" : 0,
+        "Purchasable" : true,
+        "Manufacturer" : "Raider",
+        "Model" : "Long-Range Cluster Missile Launcher",
+        "UIName" : "LRM Cluster Bomb 3",
+        "Id" : "Weapon_LRM_Cluster_Large_0-STOCK",
+        "Name" : "LRMCBL",
+        "Details" : "LRM launcher modified to fire a radar guided IMPACT cluster munition at the targeted enemy. Originally designed as an anti-personnel weapon, Cluster Missiles detonate just prior to impact in order to pepper the target area with devestating ball bearings. Raider parties found Cluster Missiles increasingly useful as the large quantity of ball bearings overwhelmed a mechs internal gyro while doing relatively little damage to the chassis itself. Cluster munitions take a long time to arm after launch and have a minimum range greater than standard LRM missiles.",
+        "Icon" : "uixSvgIcon_weapon_Missile"
+    },
+    "BonusValueA" : "",
+    "BonusValueB" : "",
+    "ComponentType" : "Weapon",
+    "ComponentSubType" : "Weapon",
+    "PrefabIdentifier" : "lrm15",
+    "BattleValue" : 0,
+    "InventorySize" : 3,
+    "Tonnage" : 6,
+    "AllowedLocations" : "All",
+    "DisallowedLocations" : "All",
+    "CriticalComponent" : false,
+    "statusEffects" : [
+
+    ],
+    "ComponentTags" : {
+        "items" : [
+            "component_type_stock",
+            "range_extreme"
+        ],
+        "tagSetSourceFile" : ""
+    }
+}

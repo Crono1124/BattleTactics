@@ -1,0 +1,65 @@
+{
+    "Category" : "Energy",
+    "Type" : "Laser",
+    "WeaponSubType" : "MediumLaserPulse",
+    "MinRange" : 0,
+    "MaxRange" : 270,
+    "RangeSplit" : [
+        180,
+        180,
+        270
+    ],
+    "ammoCategoryID" : "Chem",
+    "StartingAmmoCapacity" : 0,
+    "HeatGenerated" : 6,
+    "Damage" : 25,
+    "OverheatedDamageMultiplier" : 0,
+    "EvasiveDamageMultiplier" : 0,
+    "EvasivePipsIgnored" : 0,
+    "DamageVariance" : 0,
+    "HeatDamage" : 2,
+    "AccuracyModifier" : -1,
+    "CriticalChanceMultiplier" : 6,
+    "AOECapable" : false,
+    "IndirectFireCapable" : false,
+    "RefireModifier" : 1,
+    "ShotsWhenFired" : 1,
+    "ProjectilesPerShot" : 1,
+    "AttackRecoil" : 1,
+    "Instability" : 0,
+    "WeaponEffectID" : "WeaponEffect-Weapon_LaserPulse_Medium",
+    "Description" : {
+        "Cost" : 100000,
+        "Rarity" : 0,
+        "Purchasable" : true,
+        "Manufacturer" : "Innotek",
+        "Model" : "Chem laser Medium",
+        "UIName" : "Chem laser Medium",
+        "Id" : "Weapon_Laser_ChemMedium_0-STOCK",
+        "Name" : "Chemical Laser",
+        "Details" : "Medium Chemical Lasers are standard lasers modified to utilize a chemical agent to fire reducing heat generated. All Chemical Lasers leave a trace amount of residual heat on the target after firing",
+        "Icon" : "uixSvgIcon_weapon_Energy"
+    },
+    "BonusValueA" : "",
+    "BonusValueB" : "",
+    "ComponentType" : "Weapon",
+    "ComponentSubType" : "Weapon",
+    "PrefabIdentifier" : "Laser",
+    "BattleValue" : 0,
+    "InventorySize" : 1,
+    "Tonnage" : 1,
+    "AllowedLocations" : "All",
+    "DisallowedLocations" : "All",
+    "CriticalComponent" : false,
+	"VolleyDivisor" : 0,
+    "statusEffects" : [
+
+    ],
+    "ComponentTags" : {
+        "items" : [
+            "component_type_stock",
+            "range_standard"
+		],
+        "tagSetSourceFile" : ""
+    }
+}

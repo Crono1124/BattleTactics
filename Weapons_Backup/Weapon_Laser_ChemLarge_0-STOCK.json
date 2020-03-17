@@ -1,0 +1,65 @@
+{
+    "Category" : "Energy",
+    "Type" : "Laser",
+    "WeaponSubType" : "LargeLaserPulse",
+    "MinRange" : 0,
+    "MaxRange" : 750,
+    "RangeSplit" : [
+        300,
+        300,
+        750
+    ],
+    "ammoCategoryID" : "Chem",
+    "StartingAmmoCapacity" : 0,
+    "HeatGenerated" : 9,
+    "Damage" : 45,
+    "OverheatedDamageMultiplier" : 0,
+    "EvasiveDamageMultiplier" : 0,
+    "EvasivePipsIgnored" : 0,
+    "DamageVariance" : 0,
+    "HeatDamage" : 6,
+    "AccuracyModifier" : -1,
+    "CriticalChanceMultiplier" : 6,
+    "AOECapable" : false,
+    "IndirectFireCapable" : false,
+    "RefireModifier" : 1,
+    "ShotsWhenFired" : 1,
+    "ProjectilesPerShot" : 3,
+    "AttackRecoil" : 1,
+    "Instability" : 6,
+    "WeaponEffectID" : "WeaponEffect-Weapon_LaserPulse_Large",
+    "Description" : {
+        "Cost" : 115000,
+        "Rarity" : 0,
+        "Purchasable" : true,
+        "Manufacturer" : "Innotek",
+        "Model" : "Large Chem Laser",
+        "UIName" : "Chem laser Large",
+        "Id" : "Weapon_Laser_ChemLarge_0-STOCK",
+        "Name" : "Chemical Laser",
+        "Details" : "Large Chemical Lasers are standard lasers modified to utilize a chemical agent to fire reducing heat generated. All Chemical Lasers leave a trace amount of residual heat on the target after firing",
+        "Icon" : "uixSvgIcon_weapon_Energy"
+    },
+    "BonusValueA" : "",
+    "BonusValueB" : "",
+    "ComponentType" : "Weapon",
+    "ComponentSubType" : "Weapon",
+    "PrefabIdentifier" : "Laser",
+    "BattleValue" : 0,
+    "InventorySize" : 2,
+    "Tonnage" : 3,
+    "AllowedLocations" : "All",
+    "DisallowedLocations" : "All",
+    "CriticalComponent" : false,
+	"VolleyDivisor" : 0,
+    "statusEffects" : [
+
+    ],
+    "ComponentTags" : {
+        "items" : [
+            "component_type_stock",
+            "range_extreme"
+		],
+        "tagSetSourceFile" : ""
+    }
+}
