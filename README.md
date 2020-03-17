@@ -9,13 +9,97 @@
   #### +A faction is planned to be introduced that specalizes in mech salvage... Yay Pirates!
 
 
-  (At this time no DLC is required for this MOD as I have not edited any DLC mechs YET.)
+#Upcoming: Version 1.3-1.5
++Addition of Heavy / Assault Chassis equipped with ++ Weaponry. By the time you start doing 4-5 skull missions, this will help scale the difficulty with player progression.  
++All default chassis to be adjusted for new weight of weapons / balance changes.
+
+#Updated 3/16/2020: Version 1.2.288
+
+AI Mech Difficulty tweaks:
++Brawler AI Will not attempt significantly more alpha strikes
++Sniper AI will always alpha with as much as possible unless it will overheat or <10% chance of hit
++Last Man Standing AI Configuration updated -- AI Will attempt blaze of glory :)
++Overheat threshold reduced for AI. If chance to destroy mech, Overheating is A-OK.
++DFA Chance increased -- If DFA capable mech is within jump range, but will not self destruct, DFA is also A-OK.
++Panther-9R Updated configuration
+
+
+#Updated 3/16/2020: Version 1.2.28
+Updated Mech configurations for the following chassis to comply with New energy weapon weights. More to come 3/17/2020! Update often for best results!
+
++Rifleman-RFL-3N
++Rifleman-RFL-4D
++Warhammer-WHM-6D
++Warhammer-WHM-6R
++Cataphract-CRF-1X
++Cataphract-CRF-0X
++Enforcer-ENF-4R
++Zues-6S
++Griffin-GRF-1N
++Vindicator-VND-1R
+
+#Updated 3/15/2020: Version 1.2.27
+Updated Mech configurations for the following chassis to comply with New energy weapon weights. More to come 3/16/2020! Update often for best results!
+
++Thunderbolt-TDR-5SS
++Thunderbolt-TDR-5S
++Battlemaster-BLR-1G
++Battlemaster-BLR-1GB
++Banshe-BNC-3M
++Banshe-BNC-3E
++Banshe-BNC-3S
++Wolverine-WVR-6K
++Centurion-CN9-AL
++Crab-CRB-27
++Crab-CRB-27B
++Commando-COM-1B
++Flea-FLE-4
++Panther-PNT-9R
++Trebuchet-TBT-7K
++KingCrab-0000
+
+#Updated 3/14/2020:  Version 1.2.26
+Updated Mech configurations for the following chassis to comply with New energy weapon weights. More to come 3/15/2020! Update often for best results!
+
++AS7-D-HT
++Catapult-KT
++AWS-8T
++AWS-8Q
++ANH-JH
++Marauder-3R
++PHX-1K
++Grasshopper -5H
++PHX-1
++BL-6-KNT
++MAD-3D
+
+Bug Fix
+Locust 1T
+
+#Updated 3/11/2020: All energy weapons and all variants re-balanced. Version 1.2.2
+
++Standard Lasers: Damage / Heat / Weight Adjusted
++Chemical Lasers: Damage / Heat / Weight Adjusted
++ER Lasers: Damage / Heat / Weight Adjusted
++Pulse lasers: Weight / Damage / Heat adjusted
++PPC: Weight / Tonnage adjusted
++PPCSnub: Weight Adjusted
++PPCER: Weight / Damage Adjusted
+Orion-VT Chassis Introduced: Definitive Heavy Brawler, Armored, with leg mods to enhance speed.
+
+**Update 3/10/2020:
++Rifleman 4DX: Prototype Energy weapons platform with snub PPCs
++Centurion-LL: Versatile platform with penetrating missiles, a trio of MGs, leg mods, and chemical lasers.
+C.A.S.E. Ammo bins for all types (Except Gauss)
+Half ton Ammo for all types
+
+#(Updated 3/9/2020) Please update to version 1.1 to reflect recent changes.
 
 # Current Changes:
 
 ### Global accuracy changes:
 
-+All units will now only gain +1% accuracy per gunnery stat increase vice the original 2.5%. This prevents the constant 95% hit chance without the use of tactics (Higher Ground)
++All units will now only gain +2% accuracy per gunnery stat increase vice the original 2.5%. This prevents the constant 95% hit chance without the use of tactics (Higher Ground)
 
  +All LRM Accuracy lowered. LRM missile spam should be just that... Spam. Lobbing 40+ missiles from thousands of feet away should not all impact with perfect accuracy. This was implemented by lowering LRM missile accuracy modifier by 3. (Still in balance testing phase.)
 
