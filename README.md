@@ -94,7 +94,7 @@ Orion-VT Chassis Introduced: Definitive Heavy Brawler, Armored, with leg mods to
 C.A.S.E. Ammo bins for all types (Except Gauss)
 Half ton Ammo for all types
 
-#(Updated 3/9/2020) Please update to version 1.1 to reflect recent changes.
+### (Updated 3/9/2020) Please update to version 1.1 to reflect recent changes.
 
 # Current Changes:
 
