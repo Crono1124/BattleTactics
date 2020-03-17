@@ -10,9 +10,31 @@
 
 # Update News:
 
-### Upcoming: Version 1.3-1.5
-+Addition of Heavy / Assault Chassis equipped with ++ Weaponry. By the time you start doing 4-5 skull missions, this will help scale the difficulty with player progression.  
-+All default chassis to be adjusted for new weight of weapons / balance changes.
+### Major Update Version 1.3 3/17/2020
+
++Addition of new mech variants equipped with ++ Weaponry. To improve the scale the difficulty with player progression.  
++ New Mech Variant Annihilator-ANH-ULTR
++ New Mech Variant Archer-ARC-2RX
++ New Mech Variant Zeus-ZEU-6F
++ New Mech Variant Jagermech-JM6-DB
++ New Mech Variant Rifleman-RFL-TAG
++ New Mech Variant Crab-FS
++ New Mech Variant Assassin-ASN-SS
++ New Mech Variant Javeline-JVN-DR2
++ New Mech Variant Commando-COM-R8
++ New Mech Variant Panther-PNT-9X
+
++All remaining default chassis adjusted for new weight of weapons / balance changes.
++ Highlander-HGN-733P
++ Stalker-STK-3F
++ Enforcer-ENF-7T
++ Highlander-HGN-733P
++ Rifleman-RFL-4DX
++ Urbanmech-UM-R90
++ Zeus-6T
++ Blackjack-BJ-1DB
+
++ Bug Fix - Typo in Disrupter Rifle files
 
 ### Updated 3/16/2020: Version 1.2.288
 
