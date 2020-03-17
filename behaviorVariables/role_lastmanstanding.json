@@ -1,0 +1,57 @@
+{
+  "behaviorVariables" : [
+    {
+    /* How much accuracy (0.0 - 1.0) is required to consider
+       an attack that will overheat */
+       /*Changed Value Default Value: 0.75 */
+          "k" : "Float_AccuracyNeededForOverheatAttack",
+          "v" : {
+  "type" : "Float",
+  "floatVal" : 0.0
+          }
+        },
+        {
+            /* How much a location must be damaged before an overheat
+               attack will be considered, as a fraction from 0.0
+               (undamaged) to 1.0 (location destroyed) */
+               /*Changed Value Default Value: 0.85 */
+                  "k" : "Float_ExistingTargetDamageForOverheatAttack",
+                  "v" : {
+          "type" : "Float",
+          "floatVal" : 0.00
+                  }
+        },
+        {
+            /* The "To Hit" threshold to use when attacking preferred
+             * targets */
+             /*Changed Value Default Value: 0.3 */
+                  "k" : "Float_PreferredTargetToHitThreshold",
+                  "v" : {
+          "type" : "Float",
+          "floatVal" : 0.0
+                  }
+        },
+        {
+            /* Evasive "to hit" floor - if the to-hit is below this
+               percentage (0.0 - 100.0), only shoot a single
+               "conservative" shot. Note: ignored for attackers that
+               are not mechs. */
+               /*Changed Value Default Value: 40.0 */
+            "k" : "Float_EvasiveToHitFloor",
+            "v" : {
+          "type": "Float",
+          "floatVal" : 0.0
+            }
+        },
+        {
+            /* How much a location must be damaged before a DFA attack
+               will be considered , as a fraction from 0.0 (undamaged)
+               to 1.0 (location destroyed) */
+                  "k" : "Float_ExistingTargetDamageForDFAAttack",
+                  "v" : {
+          "type" : "Float",
+          "floatVal" : 0.3
+                        }
+        }
+      ]
+}
