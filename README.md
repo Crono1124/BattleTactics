@@ -8,12 +8,13 @@
   #### +Salvaging a mech is no longer an accidental act. Weapons have been created to assist in salvaging actions.
   #### +A faction is planned to be introduced that specalizes in mech salvage... Yay Pirates!
 
+# Update News:
 
-#Upcoming: Version 1.3-1.5
+### Upcoming: Version 1.3-1.5
 +Addition of Heavy / Assault Chassis equipped with ++ Weaponry. By the time you start doing 4-5 skull missions, this will help scale the difficulty with player progression.  
 +All default chassis to be adjusted for new weight of weapons / balance changes.
 
-#Updated 3/16/2020: Version 1.2.288
+### Updated 3/16/2020: Version 1.2.288
 
 AI Mech Difficulty tweaks:
 +Brawler AI Will not attempt significantly more alpha strikes
@@ -24,7 +25,7 @@ AI Mech Difficulty tweaks:
 +Panther-9R Updated configuration
 
 
-#Updated 3/16/2020: Version 1.2.28
+### Updated 3/16/2020: Version 1.2.28
 Updated Mech configurations for the following chassis to comply with New energy weapon weights. More to come 3/17/2020! Update often for best results!
 
 +Rifleman-RFL-3N
@@ -38,7 +39,7 @@ Updated Mech configurations for the following chassis to comply with New energy 
 +Griffin-GRF-1N
 +Vindicator-VND-1R
 
-#Updated 3/15/2020: Version 1.2.27
+### Updated 3/15/2020: Version 1.2.27
 Updated Mech configurations for the following chassis to comply with New energy weapon weights. More to come 3/16/2020! Update often for best results!
 
 +Thunderbolt-TDR-5SS
@@ -58,7 +59,7 @@ Updated Mech configurations for the following chassis to comply with New energy 
 +Trebuchet-TBT-7K
 +KingCrab-0000
 
-#Updated 3/14/2020:  Version 1.2.26
+### Updated 3/14/2020:  Version 1.2.26
 Updated Mech configurations for the following chassis to comply with New energy weapon weights. More to come 3/15/2020! Update often for best results!
 
 +AS7-D-HT
@@ -76,7 +77,7 @@ Updated Mech configurations for the following chassis to comply with New energy 
 Bug Fix
 Locust 1T
 
-#Updated 3/11/2020: All energy weapons and all variants re-balanced. Version 1.2.2
+### Updated 3/11/2020: All energy weapons and all variants re-balanced. Version 1.2.2
 
 +Standard Lasers: Damage / Heat / Weight Adjusted
 +Chemical Lasers: Damage / Heat / Weight Adjusted
